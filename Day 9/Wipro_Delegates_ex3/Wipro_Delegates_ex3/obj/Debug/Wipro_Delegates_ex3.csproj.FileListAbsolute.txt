@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Delegates_ex3\Wipro_Delegates_ex3\bin\Debug\Wipro_Delegates_ex3.exe.config
+C:\Users\hp\source\repos\Wipro_Delegates_ex3\Wipro_Delegates_ex3\bin\Debug\Wipro_Delegates_ex3.exe
+C:\Users\hp\source\repos\Wipro_Delegates_ex3\Wipro_Delegates_ex3\bin\Debug\Wipro_Delegates_ex3.pdb
+C:\Users\hp\source\repos\Wipro_Delegates_ex3\Wipro_Delegates_ex3\obj\Debug\Wipro_Delegates_ex3.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Delegates_ex3\Wipro_Delegates_ex3\obj\Debug\Wipro_Delegates_ex3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Delegates_ex3\Wipro_Delegates_ex3\obj\Debug\Wipro_Delegates_ex3.exe
+C:\Users\hp\source\repos\Wipro_Delegates_ex3\Wipro_Delegates_ex3\obj\Debug\Wipro_Delegates_ex3.pdb

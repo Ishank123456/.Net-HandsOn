@@ -1,0 +1,157 @@
+﻿@model Wipro_SmartHealthcareSystem_Assesment4.ViewModels.UserLoginViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #f0f2f5;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    }
+
+    .login-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+        max-width: 900px;
+        width: 100%;
+        height: 500px;
+    }
+
+    .login-form {
+        width: 50%;
+        padding: 40px;
+        text-align: center;
+    }
+
+        .login-form h2 {
+            color: #333;
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+    .form-group label {
+        font-size: 14px;
+        color: #666;
+        display: block;
+        margin-bottom: 8px;
+    }
+
+    .form-control {
+        height: 45px;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+        padding: 10px;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+        .form-control:focus {
+            border-color: #007bff;
+            box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+            outline: none;
+        }
+
+    .btn-success {
+        background-color: #007bff;
+        border: none;
+        color: white;
+        padding: 12px 20px;
+        font-size: 16px;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-success:hover {
+            background-color: #0056b3;
+        }
+
+    .text-center p {
+        font-size: 14px;
+        color: #666;
+        margin: 20px 0;
+    }
+
+    .text-center a {
+        color: #007bff;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+        .text-center a:hover {
+            text-decoration: underline;
+        }
+
+    .info-section {
+        width: 50%;
+        background-color: #e9ecef;
+        border-radius: 12px;
+        padding: 40px;
+        color: #333;
+    }
+
+        .info-section h3 {
+            font-size: 20px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .info-section p {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        .info-section a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+            .info-section a:hover {
+                text-decoration: underline;
+            }
+</style>
+
+<section class="login-wrapper">
+    <div class="login-form">
+        <h2>Login to Your Account</h2>
+        <form asp-action="Login">
+            <div class="form-group">
+                <label asp-for="Email">Email</label>
+                <input type="email" asp-for="Email" class="form-control" value="subham@gmail.com" placeholder="Enter your email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password">Password</label>
+                <input type="password" asp-for="Password" class="form-control" value="12345678" placeholder="Enter your password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-success">Sign In</button>
+        </form>
+
+        <div class="text-center">
+            <p>Don't have an account? <a href="@Url.Action("Register", "Register")">Sign up</a></p>
+        </div>
+    </div>
+
+    <div class="info-section">
+        <h3>Welcome to Our Platform</h3>
+        <p>Experience a seamless and intuitive interface designed to streamline your interactions and improve your efficiency. Our platform offers various features to enhance your productivity.</p>
+        <p>If you need any assistance, feel free to <a href="@Url.Action("Contact", "Home")">contact us</a>. We're here to help!</p>
+    </div>
+</section>

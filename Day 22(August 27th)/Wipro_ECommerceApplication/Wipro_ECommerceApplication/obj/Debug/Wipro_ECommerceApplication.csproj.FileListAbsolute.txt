@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_ECommerceApplication\Wipro_ECommerceApplication\bin\Debug\Wipro_ECommerceApplication.exe.config
+C:\Users\hp\source\repos\Wipro_ECommerceApplication\Wipro_ECommerceApplication\bin\Debug\Wipro_ECommerceApplication.exe
+C:\Users\hp\source\repos\Wipro_ECommerceApplication\Wipro_ECommerceApplication\bin\Debug\Wipro_ECommerceApplication.pdb
+C:\Users\hp\source\repos\Wipro_ECommerceApplication\Wipro_ECommerceApplication\obj\Debug\Wipro_ECommerceApplication.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_ECommerceApplication\Wipro_ECommerceApplication\obj\Debug\Wipro_ECommerceApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_ECommerceApplication\Wipro_ECommerceApplication\obj\Debug\Wipro_ECommerceApplication.exe
+C:\Users\hp\source\repos\Wipro_ECommerceApplication\Wipro_ECommerceApplication\obj\Debug\Wipro_ECommerceApplication.pdb

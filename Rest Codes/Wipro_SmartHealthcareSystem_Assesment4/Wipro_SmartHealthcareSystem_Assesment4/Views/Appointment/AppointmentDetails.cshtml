@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Domain.Models.Appointment>
+
+@{
+    ViewData["Title"] = "Appointment Details";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Appointment Details</h2>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Appointment ID</th>
+                <th>Patient ID</th>
+                <th>Doctor ID</th>
+                <th>Appointment Date</th>
+                <th>Status</th>
+                <th>Reason for Visit</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appointment in Model)
+            {
+                <tr>
+                    <td>@appointment.AppointmentId</td>
+                    <td>@appointment.PatientId</td>
+                    <td>@appointment.DoctorId</td>
+                    <td>@appointment.AppointmentDate.ToShortDateString()</td>
+                    <td>@appointment.AppointmentStatus</td>
+                    <td>@appointment.ReasonForVisit</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@appointment.AppointmentId" class="btn btn-warning btn-sm">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p class="mt-4">
+        <a asp-action="AdminDashboard" asp-controller="Admin" class="btn btn-secondary">Back to Dashboard</a>
+    </p>
+</div>
+
+<!-- Optional: Include Bootstrap CSS for better styling -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">

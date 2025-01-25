@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_PassParameter.exe.config
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_PassParameter.exe
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_PassParameter.pdb
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll.dll
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll.pdb
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Pr.BE37E590.Up2Date
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.exe
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.pdb
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll_2.dll
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll_2.pdb

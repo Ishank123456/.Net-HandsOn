@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_api_studentserviceapplication\\wipro_api_studentserviceapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|solutionrelative:wipro_api_studentserviceapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_api_studentserviceapplication\\wipro_api_studentserviceapplication\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|solutionrelative:wipro_api_studentserviceapplication\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_api_studentserviceapplication\\wipro_api_studentserviceapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|solutionrelative:wipro_api_studentserviceapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_api_studentserviceapplication\\wipro_api_studentserviceapplication\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|solutionrelative:wipro_api_studentserviceapplication\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_api_studentserviceapplication\\wipro_api_studentserviceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|solutionrelative:wipro_api_studentserviceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_api_studentserviceapplication\\wipro_api_studentserviceapplication\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|solutionrelative:wipro_api_studentserviceapplication\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_api_studentserviceapplication\\wipro_api_studentserviceapplication\\entityframework\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5211D7DE-4516-4631-8C13-001336CE4B05}|Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication.csproj|solutionrelative:wipro_api_studentserviceapplication\\entityframework\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Wipro_API_StudentServiceApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Wipro_API_StudentServiceApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:35:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_API_StudentServiceApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Program.cs",
+              "RelativeToolTip": "Wipro_API_StudentServiceApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:33:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_API_StudentServiceApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\appsettings.json",
+              "RelativeToolTip": "Wipro_API_StudentServiceApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T11:31:31.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_StudentServiceApplication\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Wipro_API_StudentServiceApplication\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:23:15.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_StudentServiceApplication\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Wipro_API_StudentServiceApplication\\Repository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:23:03.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\EntityFramework\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Wipro_API_StudentServiceApplication\\EntityFramework\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\EntityFramework\\StudentDbContext.cs",
+              "RelativeToolTip": "Wipro_API_StudentServiceApplication\\EntityFramework\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:18:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Wipro_API_StudentServiceApplication\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_StudentServiceApplication\\Wipro_API_StudentServiceApplication\\Model\\Student.cs",
+              "RelativeToolTip": "Wipro_API_StudentServiceApplication\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:15:01.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

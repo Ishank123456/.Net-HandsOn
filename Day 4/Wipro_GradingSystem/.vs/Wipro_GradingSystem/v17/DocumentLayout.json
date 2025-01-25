@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_GradingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F46F6-9CBA-4CE5-AE24-232811CC4728}|Wipro_GradingSystem\\Wipro_GradingSystem.csproj|c:\\users\\hp\\source\\repos\\wipro_gradingsystem\\wipro_gradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F46F6-9CBA-4CE5-AE24-232811CC4728}|Wipro_GradingSystem\\Wipro_GradingSystem.csproj|solutionrelative:wipro_gradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_GradingSystem\\Wipro_GradingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_GradingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_GradingSystem\\Wipro_GradingSystem\\Program.cs",
+              "RelativeToolTip": "Wipro_GradingSystem\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwC8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:03:59.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment\bin\Debug\Wipro_Day9_Practice_Assesment.exe.config
+C:\Users\hp\source\repos\Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment\bin\Debug\Wipro_Day9_Practice_Assesment.exe
+C:\Users\hp\source\repos\Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment\bin\Debug\Wipro_Day9_Practice_Assesment.pdb
+C:\Users\hp\source\repos\Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment\obj\Debug\Wipro_Day9_Practice_Assesment.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment\obj\Debug\Wipro_Day9_Practice_Assesment.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment\obj\Debug\Wipro_Day9_Practice_Assesment.exe
+C:\Users\hp\source\repos\Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment\obj\Debug\Wipro_Day9_Practice_Assesment.pdb

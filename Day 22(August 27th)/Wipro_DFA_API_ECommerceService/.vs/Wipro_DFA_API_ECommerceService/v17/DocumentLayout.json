@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\repository\\ordertableinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\repository\\ordertableinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\models\\ordertableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\models\\ordertableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\controllers\\ordertableinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\controllers\\ordertableinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\entityframework\\wiprodfa26082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\entityframework\\wiprodfa26082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\repository\\iordertableinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\repository\\iordertableinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|c:\\users\\hp\\source\\repos\\wipro_dfa_api_ecommerceservice\\wipro_dfa_api_ecommerceservice\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0BD163-85C0-4921-8378-229872DCCBD3}|Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService.csproj|solutionrelative:wipro_dfa_api_ecommerceservice\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\appsettings.json",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T04:07:24.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderTableInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\OrderTableInfoRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Repository\\OrderTableInfoRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\OrderTableInfoRepository.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Repository\\OrderTableInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:00:03.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderTableInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\IOrderTableInfoRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Repository\\IOrderTableInfoRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\IOrderTableInfoRepository.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Repository\\IOrderTableInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:59:43.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:59:17.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Models\\Customer.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Models\\Customer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:56:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderTableInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Models\\OrderTableInfo.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Models\\OrderTableInfo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Models\\OrderTableInfo.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Models\\OrderTableInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:57:53.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:09:57.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Program.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:07:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderTableInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Controllers\\OrderTableInfoController.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Controllers\\OrderTableInfoController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Controllers\\OrderTableInfoController.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Controllers\\OrderTableInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:12:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WiproDfa26082024Context.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\EntityFramework\\WiproDfa26082024Context.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\EntityFramework\\WiproDfa26082024Context.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\EntityFramework\\WiproDfa26082024Context.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\EntityFramework\\WiproDfa26082024Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:54:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_DFA_API_ECommerceService\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_DFA_API_ECommerceService\\Wipro_DFA_API_ECommerceService\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Wipro_DFA_API_ECommerceService\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:59:02.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

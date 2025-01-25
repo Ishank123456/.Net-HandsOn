@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\wipro_isp_ex1\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|solutionrelative:wipro_isp_ex1\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_isp_ex1\\wipro_isp_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|solutionrelative:wipro_isp_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\wipro_isp_ex1\\oracledataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|solutionrelative:wipro_isp_ex1\\oracledataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\wipro_isp_ex1\\sqldataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F22F05-72EC-4D7D-B4A8-544BC8485D0E}|Wipro_ISP_Ex1\\Wipro_ISP_Ex1.csproj|solutionrelative:wipro_isp_ex1\\sqldataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OracleDataClient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\OracleDataClient.cs",
+              "RelativeDocumentMoniker": "Wipro_ISP_Ex1\\OracleDataClient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\OracleDataClient.cs",
+              "RelativeToolTip": "Wipro_ISP_Ex1\\OracleDataClient.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:20:18.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlDataClient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\SqlDataClient.cs",
+              "RelativeDocumentMoniker": "Wipro_ISP_Ex1\\SqlDataClient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\SqlDataClient.cs",
+              "RelativeToolTip": "Wipro_ISP_Ex1\\SqlDataClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:16:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\IDataProvider.cs",
+              "RelativeDocumentMoniker": "Wipro_ISP_Ex1\\IDataProvider.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\IDataProvider.cs",
+              "RelativeToolTip": "Wipro_ISP_Ex1\\IDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:13:59.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_ISP_Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_ISP_Ex1\\Wipro_ISP_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_ISP_Ex1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:13:36.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

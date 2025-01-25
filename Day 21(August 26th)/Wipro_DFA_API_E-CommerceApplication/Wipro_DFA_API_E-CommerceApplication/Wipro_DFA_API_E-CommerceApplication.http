@@ -1,0 +1,6 @@
+@Wipro_DFA_API_E_CommerceApplication_HostAddress = http://localhost:5062
+
+GET {{Wipro_DFA_API_E_CommerceApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    </head>
+    
+    <body>
+        <h1>@ViewData["Header"]</h1>
+
+        @{
+        var student = ViewData["StudentDetails"] as Wipro_ViewData.Models.Student;
+        }
+
+        <div>
+            Student ID:      @student.StudentId
+        </div>
+    <div>
+        Student Name:      @student.StudentName
+    </div>
+    <div>
+        Branch:      @student.Branch
+    </div>
+    <div>
+        Section:      @student.Section
+    </div>
+    <div>
+        Gender:      @student.Gender
+    </div>
+    </body>
+</html>
+

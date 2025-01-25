@@ -1,0 +1,149 @@
+﻿@model AddUserViewModel
+@using Wipro_SmartHealthcareSystem_Assesment4.ViewModels
+
+@{
+    ViewBag.Title = "Sign Up";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(to right, #ffafbd, #ffc3a0); /* Gradient background */
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            padding: 2rem;
+        }
+
+        .card {
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1s ease-in;
+            background: white;
+        }
+
+        .card-header {
+            background: linear-gradient(to right, #ff6f61, #d94057);
+            color: white;
+            border-bottom: 2px solid #d94057;
+            padding: 1rem;
+            border-radius: 15px 15px 0 0;
+            text-align: center;
+        }
+
+        .card-body {
+            padding: 2rem;
+        }
+
+        .form-control:focus {
+            border-color: #ff6f61;
+            box-shadow: 0 0 0 0.2rem rgba(255, 111, 97, 0.25);
+        }
+
+        .btn-success {
+            background-color: #ff6f61;
+            border-color: #ff6f61;
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+        }
+
+        .btn-success:hover {
+            background-color: #d94057;
+            border-color: #d94057;
+        }
+
+        .text-danger {
+            color: #d94057;
+        }
+
+        .text-center a {
+            color: #ff6f61;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .text-center a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Create Your Account</h3>
+                    </div>
+                    <div class="card-body">
+                        @using (Html.BeginForm("Register", "Register", FormMethod.Post, new { @class = "form-horizontal" }))
+                        {
+                            @Html.AntiForgeryToken()
+
+                            <div class="form-group">
+                                <label asp-for="FirstName" class="control-label">First Name</label>
+                                @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", placeholder = "Enter your first name" })
+                                @Html.ValidationMessageFor(m => m.FirstName, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="LastName" class="control-label">Last Name</label>
+                                @Html.TextBoxFor(m => m.LastName, new { @class = "form-control", placeholder = "Enter your last name" })
+                                @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Address" class="control-label">Address</label>
+                                @Html.TextBoxFor(m => m.Address, new { @class = "form-control", placeholder = "Enter your address" })
+                                @Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="ContactNo" class="control-label">Contact Number</label>
+                                @Html.TextBoxFor(m => m.ContactNo, new { @class = "form-control", placeholder = "Enter your contact number" })
+                                @Html.ValidationMessageFor(m => m.ContactNo, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="UserName" class="control-label">Username</label>
+                                @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", placeholder = "Enter your username" })
+                                @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Email" class="control-label">Email</label>
+                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Enter your email" })
+                                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Password" class="control-label">Password</label>
+                                @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Enter your password" })
+                                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group text-center">
+                                <button type="submit" class="btn btn-success btn-lg btn-block">Sign Up</button>
+                            </div>
+                        }
+
+                        <div class="text-center mt-3">
+                            <p>Already have an account? <a href="@Url.Action("Login", "Login")">Login here</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.min.js"></script>
+</body>
+</html>

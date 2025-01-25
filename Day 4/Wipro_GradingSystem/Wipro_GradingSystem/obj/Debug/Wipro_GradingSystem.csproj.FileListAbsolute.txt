@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_GradingSystem\Wipro_GradingSystem\obj\Debug\Wipro_GradingSystem.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_GradingSystem\Wipro_GradingSystem\obj\Debug\Wipro_GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_GradingSystem\Wipro_GradingSystem\bin\Debug\Wipro_GradingSystem.exe.config
+C:\Users\hp\source\repos\Wipro_GradingSystem\Wipro_GradingSystem\bin\Debug\Wipro_GradingSystem.exe
+C:\Users\hp\source\repos\Wipro_GradingSystem\Wipro_GradingSystem\bin\Debug\Wipro_GradingSystem.pdb
+C:\Users\hp\source\repos\Wipro_GradingSystem\Wipro_GradingSystem\obj\Debug\Wipro_GradingSystem.exe
+C:\Users\hp\source\repos\Wipro_GradingSystem\Wipro_GradingSystem\obj\Debug\Wipro_GradingSystem.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Forloop\Wipro_Forloop\bin\Debug\Wipro_Forloop.exe.config
+C:\Users\hp\source\repos\Wipro_Forloop\Wipro_Forloop\bin\Debug\Wipro_Forloop.exe
+C:\Users\hp\source\repos\Wipro_Forloop\Wipro_Forloop\bin\Debug\Wipro_Forloop.pdb
+C:\Users\hp\source\repos\Wipro_Forloop\Wipro_Forloop\obj\Debug\Wipro_Forloop.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Forloop\Wipro_Forloop\obj\Debug\Wipro_Forloop.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Forloop\Wipro_Forloop\obj\Debug\Wipro_Forloop.exe
+C:\Users\hp\source\repos\Wipro_Forloop\Wipro_Forloop\obj\Debug\Wipro_Forloop.pdb

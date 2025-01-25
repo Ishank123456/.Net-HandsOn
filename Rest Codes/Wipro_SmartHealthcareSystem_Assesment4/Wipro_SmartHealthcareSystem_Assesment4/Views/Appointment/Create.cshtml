@@ -1,0 +1,43 @@
+﻿@model Domain.Models.Appointment
+
+<h2>Create Appointment</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="PatientId" class="control-label">Select Patient</label>
+        <select asp-for="PatientId" class="form-control" asp-items="ViewBag.Patients">
+            <option value="">-- Select Patient --</option>
+        </select>
+        <span asp-validation-for="PatientId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DoctorId" class="control-label">Select Doctor</label>
+        <select asp-for="DoctorId" class="form-control" asp-items="ViewBag.Doctors">
+            <option value="">-- Select Doctor --</option>
+        </select>
+        <span asp-validation-for="DoctorId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AppointmentDate" class="control-label"></label>
+        <input asp-for="AppointmentDate" class="form-control" type="date" />
+        <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AppointmentStatus" class="control-label"></label>
+        <input asp-for="AppointmentStatus" class="form-control" />
+        <span asp-validation-for="AppointmentStatus" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ReasonForVisit" class="control-label"></label>
+        <input asp-for="ReasonForVisit" class="form-control" />
+        <span asp-validation-for="ReasonForVisit" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+        <a asp-action="AdminDashboard" asp-controller="Admin" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

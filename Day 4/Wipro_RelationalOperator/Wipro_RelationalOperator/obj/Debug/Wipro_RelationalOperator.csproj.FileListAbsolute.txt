@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_RelationalOperator\Wipro_RelationalOperator\bin\Debug\Wipro_RelationalOperator.exe.config
+C:\Users\hp\source\repos\Wipro_RelationalOperator\Wipro_RelationalOperator\bin\Debug\Wipro_RelationalOperator.exe
+C:\Users\hp\source\repos\Wipro_RelationalOperator\Wipro_RelationalOperator\bin\Debug\Wipro_RelationalOperator.pdb
+C:\Users\hp\source\repos\Wipro_RelationalOperator\Wipro_RelationalOperator\obj\Debug\Wipro_RelationalOperator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_RelationalOperator\Wipro_RelationalOperator\obj\Debug\Wipro_RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_RelationalOperator\Wipro_RelationalOperator\obj\Debug\Wipro_RelationalOperator.exe
+C:\Users\hp\source\repos\Wipro_RelationalOperator\Wipro_RelationalOperator\obj\Debug\Wipro_RelationalOperator.pdb

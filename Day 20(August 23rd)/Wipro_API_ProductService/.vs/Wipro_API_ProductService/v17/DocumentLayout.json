@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\migrations\\20240826044912_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\migrations\\20240826044912_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\entityframework\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\entityframework\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|c:\\users\\hp\\source\\repos\\wipro_api_productservice\\wipro_api_productservice\\wipro_api_productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8376CF73-F6F2-4A68-8B8E-2A529D449F1D}|Wipro_API_ProductService\\Wipro_API_ProductService.csproj|solutionrelative:wipro_api_productservice\\wipro_api_productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240826044912_Phase1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Migrations\\20240826044912_Phase1.cs",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\Migrations\\20240826044912_Phase1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Migrations\\20240826044912_Phase1.cs",
+              "RelativeToolTip": "Wipro_API_ProductService\\Migrations\\20240826044912_Phase1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:49:13.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\appsettings.json",
+              "RelativeToolTip": "Wipro_API_ProductService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T08:00:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Program.cs",
+              "RelativeToolTip": "Wipro_API_ProductService\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:59:26.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Wipro_API_ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:51:19.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Wipro_API_ProductService\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:35:02.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Wipro_API_ProductService\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:34:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\EntityFramework\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\EntityFramework\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\EntityFramework\\ProductDbContext.cs",
+              "RelativeToolTip": "Wipro_API_ProductService\\EntityFramework\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:29:54.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Model\\Product.cs",
+              "RelativeToolTip": "Wipro_API_ProductService\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:27:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wipro_API_ProductService.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Wipro_API_ProductService.csproj",
+              "RelativeDocumentMoniker": "Wipro_API_ProductService\\Wipro_API_ProductService.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_API_ProductService\\Wipro_API_ProductService\\Wipro_API_ProductService.csproj",
+              "RelativeToolTip": "Wipro_API_ProductService\\Wipro_API_ProductService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T07:29:08.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Inheritance", "Wipro_Inheritance\Wipro_Inheritance.csproj", "{61549AA1-9AE6-4EC1-892A-FEF070FC10FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61549AA1-9AE6-4EC1-892A-FEF070FC10FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61549AA1-9AE6-4EC1-892A-FEF070FC10FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61549AA1-9AE6-4EC1-892A-FEF070FC10FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61549AA1-9AE6-4EC1-892A-FEF070FC10FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F96C8398-E161-4823-BE91-D3DDA7A6DF4F}
+	EndGlobalSection
+EndGlobal

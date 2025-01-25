@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\wipro_finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|solutionrelative:wipro_finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\wipro_finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|solutionrelative:wipro_finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9D19ED-AEDB-4C9C-BE7E-B9E9FE21553B}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\dal\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9D19ED-AEDB-4C9C-BE7E-B9E9FE21553B}|DAL\\DAL.csproj|solutionrelative:dal\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\loginuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\loginuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\iloginuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\iloginuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\services\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187F1645-DF1F-401A-A585-421F7E0B5EBC}|Services\\Services.csproj|solutionrelative:services\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\userprofilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userprofilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CEAF069-CB00-4F97-AA57-07B724647F3A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\wipro_finalproject\\wipro_finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|solutionrelative:wipro_finalproject\\wipro_finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\wipro_finalproject\\apicontroller\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|solutionrelative:wipro_finalproject\\apicontroller\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|c:\\users\\hp\\source\\repos\\wipro_finalproject\\wipro_finalproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8A500C-4D34-4A19-8507-B300F1AB395D}|Wipro_FinalProject\\Wipro_FinalProject.csproj|solutionrelative:wipro_finalproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:51:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\UserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\UserProfileRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\UserProfileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:04:27.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:03:47.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:24:54.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\Program.cs",
+              "RelativeToolTip": "Wipro_FinalProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:19:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_FinalProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\appsettings.json",
+              "RelativeToolTip": "Wipro_FinalProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T05:20:53.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\LoginUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\LoginUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\LoginUserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\LoginUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:50:49.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:03:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\IUserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IUserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\IUserProfileRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IUserProfileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:04:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:51:13.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoginUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\ILoginUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\ILoginUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\ILoginUserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\ILoginUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:50:30.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:42:50.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Services\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:43:09.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserProfileMap.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserProfileMap.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserProfileMap.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserProfileMap.cs",
+              "RelativeToolTip": "Domain\\Models\\UserProfileMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:16:15.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Domain\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:11:54.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserMap.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserMap.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserMap.cs",
+              "RelativeToolTip": "Domain\\Models\\UserMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:11:52.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Domain\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:11:50.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:11:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:14:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryMap.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\CategoryMap.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CategoryMap.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\CategoryMap.cs",
+              "RelativeToolTip": "Domain\\Models\\CategoryMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:16:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\Category.cs",
+              "RelativeToolTip": "Domain\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:12:50.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:43:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\APIController\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "Wipro_FinalProject\\APIController\\UserLoginController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\APIController\\UserLoginController.cs",
+              "RelativeToolTip": "Wipro_FinalProject\\APIController\\UserLoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:13:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Wipro_FinalProject.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\Wipro_FinalProject.csproj",
+              "RelativeDocumentMoniker": "Wipro_FinalProject\\Wipro_FinalProject.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\Wipro_FinalProject.csproj",
+              "RelativeToolTip": "Wipro_FinalProject\\Wipro_FinalProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T10:44:27.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_FinalProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FinalProject\\Wipro_FinalProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Wipro_FinalProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:14:24.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

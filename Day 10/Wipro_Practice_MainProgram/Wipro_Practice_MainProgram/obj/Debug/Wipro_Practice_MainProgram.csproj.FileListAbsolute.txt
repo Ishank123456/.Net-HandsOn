@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\bin\Debug\Wipro_Practice_MainProgram.exe.config
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\bin\Debug\Wipro_Practice_MainProgram.exe
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\bin\Debug\Wipro_Practice_MainProgram.pdb
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\bin\Debug\Wipro_Practice_dll.dll
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\bin\Debug\Wipro_Practice_dll.pdb
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\obj\Debug\Wipro_Practice_MainProgram.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\obj\Debug\Wipro_Practice_MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\obj\Debug\Wipro_Pr.5B4F89C6.Up2Date
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\obj\Debug\Wipro_Practice_MainProgram.exe
+C:\Users\hp\source\repos\Wipro_Practice_MainProgram\Wipro_Practice_MainProgram\obj\Debug\Wipro_Practice_MainProgram.pdb

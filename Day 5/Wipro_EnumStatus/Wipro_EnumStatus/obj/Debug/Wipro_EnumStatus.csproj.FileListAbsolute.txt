@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_EnumStatus\Wipro_EnumStatus\obj\Debug\Wipro_EnumStatus.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_EnumStatus\Wipro_EnumStatus\obj\Debug\Wipro_EnumStatus.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_EnumStatus\Wipro_EnumStatus\bin\Debug\Wipro_EnumStatus.exe.config
+C:\Users\hp\source\repos\Wipro_EnumStatus\Wipro_EnumStatus\bin\Debug\Wipro_EnumStatus.exe
+C:\Users\hp\source\repos\Wipro_EnumStatus\Wipro_EnumStatus\bin\Debug\Wipro_EnumStatus.pdb
+C:\Users\hp\source\repos\Wipro_EnumStatus\Wipro_EnumStatus\obj\Debug\Wipro_EnumStatus.exe
+C:\Users\hp\source\repos\Wipro_EnumStatus\Wipro_EnumStatus\obj\Debug\Wipro_EnumStatus.pdb

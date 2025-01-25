@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_OutParameter\Wipro_OutParameter\obj\Debug\Wipro_OutParameter.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_OutParameter\Wipro_OutParameter\obj\Debug\Wipro_OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_OutParameter\Wipro_OutParameter\bin\Debug\Wipro_OutParameter.exe.config
+C:\Users\hp\source\repos\Wipro_OutParameter\Wipro_OutParameter\bin\Debug\Wipro_OutParameter.exe
+C:\Users\hp\source\repos\Wipro_OutParameter\Wipro_OutParameter\bin\Debug\Wipro_OutParameter.pdb
+C:\Users\hp\source\repos\Wipro_OutParameter\Wipro_OutParameter\obj\Debug\Wipro_OutParameter.exe
+C:\Users\hp\source\repos\Wipro_OutParameter\Wipro_OutParameter\obj\Debug\Wipro_OutParameter.pdb

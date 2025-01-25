@@ -1,0 +1,44 @@
+﻿<html>
+<head>
+    <title>Country Details Page</title>
+</head>
+
+<body>
+    <h1>List of Countries</h1>
+    <h2>Ordered List</h2>
+    <ol>
+        @{
+            foreach (var item in (List<string>)ViewData["LstCountries"])
+            {
+                <li>@item</li>
+            }
+        }
+    </ol>
+
+    <hr />
+
+    <h2>Unordered List</h2>
+    <ul>
+        @{
+            foreach (var item in (List<string>)ViewData["LstCountries"])
+            {
+                <li>@item</li>
+            }
+        }
+    </ul>
+
+    <h2>If Condition</h2>
+    <ul>
+        @{
+            foreach (var item in (List<string>)ViewData["LstCountries"])
+            {
+                if (item == "India" || item == "Japan" || item == "China" || item == "Iran")
+                {
+                    <h3>Continent:  ASIA</h3>
+                    <li>@item</li>
+                }
+            }
+        }
+    </ul>
+</body>
+</html>

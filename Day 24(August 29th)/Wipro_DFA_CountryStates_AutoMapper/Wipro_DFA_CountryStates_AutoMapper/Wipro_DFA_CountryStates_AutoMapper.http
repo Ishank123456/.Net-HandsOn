@@ -1,0 +1,6 @@
+@Wipro_DFA_CountryStates_AutoMapper_HostAddress = http://localhost:5116
+
+GET {{Wipro_DFA_CountryStates_AutoMapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex3\\wipro_interface_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|solutionrelative:wipro_interface_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex3\\wipro_interface_ex3\\genpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|solutionrelative:wipro_interface_ex3\\genpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex3\\wipro_interface_ex3\\morganstanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|solutionrelative:wipro_interface_ex3\\morganstanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex3\\wipro_interface_ex3\\iwipro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|solutionrelative:wipro_interface_ex3\\iwipro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex3\\wipro_interface_ex3\\iwiproforgenpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|solutionrelative:wipro_interface_ex3\\iwiproforgenpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex3\\wipro_interface_ex3\\infosys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7958486-B9FC-4AE3-9629-EE211CF51108}|Wipro_Interface_Ex3\\Wipro_Interface_Ex3.csproj|solutionrelative:wipro_interface_ex3\\infosys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWiproForGenpact.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\IWiproForGenpact.cs",
+              "RelativeDocumentMoniker": "Wipro_Interface_Ex3\\IWiproForGenpact.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\IWiproForGenpact.cs",
+              "RelativeToolTip": "Wipro_Interface_Ex3\\IWiproForGenpact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:06:52.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWipro.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\IWipro.cs",
+              "RelativeDocumentMoniker": "Wipro_Interface_Ex3\\IWipro.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\IWipro.cs",
+              "RelativeToolTip": "Wipro_Interface_Ex3\\IWipro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:00:30.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Infosys.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\Infosys.cs",
+              "RelativeDocumentMoniker": "Wipro_Interface_Ex3\\Infosys.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\Infosys.cs",
+              "RelativeToolTip": "Wipro_Interface_Ex3\\Infosys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:06:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MorganStanly.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\MorganStanly.cs",
+              "RelativeDocumentMoniker": "Wipro_Interface_Ex3\\MorganStanly.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\MorganStanly.cs",
+              "RelativeToolTip": "Wipro_Interface_Ex3\\MorganStanly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:05:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genpact.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\Genpact.cs",
+              "RelativeDocumentMoniker": "Wipro_Interface_Ex3\\Genpact.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\Genpact.cs",
+              "RelativeToolTip": "Wipro_Interface_Ex3\\Genpact.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:02:49.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Interface_Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex3\\Wipro_Interface_Ex3\\Program.cs",
+              "RelativeToolTip": "Wipro_Interface_Ex3\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:57:33.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_ArithmeticOperator_Float\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06D08C2-A4B3-4A97-A263-BF7FE09EC745}|Wipro_ArithmeticOperator_Float\\Wipro_ArithmeticOperator_Float.csproj|c:\\users\\hp\\source\\repos\\wipro_arithmeticoperator_float\\wipro_arithmeticoperator_float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06D08C2-A4B3-4A97-A263-BF7FE09EC745}|Wipro_ArithmeticOperator_Float\\Wipro_ArithmeticOperator_Float.csproj|solutionrelative:wipro_arithmeticoperator_float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_ArithmeticOperator_Float\\Wipro_ArithmeticOperator_Float\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_ArithmeticOperator_Float\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_ArithmeticOperator_Float\\Wipro_ArithmeticOperator_Float\\Program.cs",
+              "RelativeToolTip": "Wipro_ArithmeticOperator_Float\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:44:08.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

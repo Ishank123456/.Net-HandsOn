@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_SwitchStatement\Wipro_SwitchStatement\obj\Debug\Wipro_SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_SwitchStatement\Wipro_SwitchStatement\obj\Debug\Wipro_SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_SwitchStatement\Wipro_SwitchStatement\bin\Debug\Wipro_SwitchStatement.exe.config
+C:\Users\hp\source\repos\Wipro_SwitchStatement\Wipro_SwitchStatement\bin\Debug\Wipro_SwitchStatement.exe
+C:\Users\hp\source\repos\Wipro_SwitchStatement\Wipro_SwitchStatement\bin\Debug\Wipro_SwitchStatement.pdb
+C:\Users\hp\source\repos\Wipro_SwitchStatement\Wipro_SwitchStatement\obj\Debug\Wipro_SwitchStatement.exe
+C:\Users\hp\source\repos\Wipro_SwitchStatement\Wipro_SwitchStatement\obj\Debug\Wipro_SwitchStatement.pdb

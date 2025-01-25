@@ -1,0 +1,38 @@
+﻿<html>
+<head>
+    <title>Person Details Page</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="font-style:oblique; text-align:center">Person Table</h1>
+
+    <table class="table table-striped " style="width:100%">
+        <tr>
+            <th>Person ID</th>
+            <th>Person Name</th>
+            <th>Person Age</th>
+            <th>Person Email</th>
+            <th>Person Address</th>
+        </tr>
+        @{
+            foreach (var item in (List<Person>)ViewData["LstPerson"])
+            {
+                <tr>
+                    <td>@item.PersonId</td>
+                    <td>@item.PersonName</td>
+                    <td>@item.PersonAge</td>
+                    <td>@item.PersonEmail</td>
+                    <td>@item.PersonAddress</td>
+                </tr>
+            }
+        }
+    </table>
+</body>
+</html>
+

@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\repository\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\repository\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\repository\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\repository\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\migrations\\20240903141736_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\migrations\\20240903141736_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|c:\\users\\hp\\source\\repos\\practice_apiwithview_mvc_login\\practice_apiwithview_mvc_login\\entityframework\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA099351-05CE-4166-912F-AD5E201847A5}|Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj|solutionrelative:practice_apiwithview_mvc_login\\entityframework\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:13:34.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\APIController\\UserAPIController.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\APIController\\UserAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\APIController\\UserAPIController.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\APIController\\UserAPIController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCoAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:00:01.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Repository\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Repository\\UserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Repository\\UserProfileRepository.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Repository\\UserProfileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:48:08.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:18:23.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Repository\\IUserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Repository\\IUserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Repository\\IUserProfileRepository.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Repository\\IUserProfileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:47:59.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:40:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240903141736_Phase1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Migrations\\20240903141736_Phase1.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Migrations\\20240903141736_Phase1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Migrations\\20240903141736_Phase1.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Migrations\\20240903141736_Phase1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:17:37.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwEIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:55:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:41:39.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\appsettings.json",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T14:14:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Program.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:15:24.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\DTOs\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\DTOs\\UserProfileDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\DTOs\\UserProfileDTO.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\DTOs\\UserProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:19:47.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:32:23.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Practice_APIWithView_MVC_Login",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T13:59:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\EntityFramework\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Practice_APIWithView_MVC_Login\\EntityFramework\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_APIWithView_MVC_Login\\Practice_APIWithView_MVC_Login\\EntityFramework\\UserDbContext.cs",
+              "RelativeToolTip": "Practice_APIWithView_MVC_Login\\EntityFramework\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:44:20.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

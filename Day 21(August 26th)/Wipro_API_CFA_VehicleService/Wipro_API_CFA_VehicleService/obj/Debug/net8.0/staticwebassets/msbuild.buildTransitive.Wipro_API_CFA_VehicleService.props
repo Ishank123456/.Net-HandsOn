@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wipro_API_CFA_VehicleService.props" />
+</Project>

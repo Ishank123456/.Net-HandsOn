@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_EnumMonths\Wipro_EnumMonths\bin\Debug\Wipro_EnumMonths.exe.config
+C:\Users\hp\source\repos\Wipro_EnumMonths\Wipro_EnumMonths\bin\Debug\Wipro_EnumMonths.exe
+C:\Users\hp\source\repos\Wipro_EnumMonths\Wipro_EnumMonths\bin\Debug\Wipro_EnumMonths.pdb
+C:\Users\hp\source\repos\Wipro_EnumMonths\Wipro_EnumMonths\obj\Debug\Wipro_EnumMonths.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_EnumMonths\Wipro_EnumMonths\obj\Debug\Wipro_EnumMonths.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_EnumMonths\Wipro_EnumMonths\obj\Debug\Wipro_EnumMonths.exe
+C:\Users\hp\source\repos\Wipro_EnumMonths\Wipro_EnumMonths\obj\Debug\Wipro_EnumMonths.pdb

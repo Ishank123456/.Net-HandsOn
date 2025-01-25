@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Interface_Ex1\Wipro_Interface_Ex1\bin\Debug\Wipro_Interface_Ex1.exe.config
+C:\Users\hp\source\repos\Wipro_Interface_Ex1\Wipro_Interface_Ex1\bin\Debug\Wipro_Interface_Ex1.exe
+C:\Users\hp\source\repos\Wipro_Interface_Ex1\Wipro_Interface_Ex1\bin\Debug\Wipro_Interface_Ex1.pdb
+C:\Users\hp\source\repos\Wipro_Interface_Ex1\Wipro_Interface_Ex1\obj\Debug\Wipro_Interface_Ex1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Interface_Ex1\Wipro_Interface_Ex1\obj\Debug\Wipro_Interface_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Interface_Ex1\Wipro_Interface_Ex1\obj\Debug\Wipro_Interface_Ex1.exe
+C:\Users\hp\source\repos\Wipro_Interface_Ex1\Wipro_Interface_Ex1\obj\Debug\Wipro_Interface_Ex1.pdb

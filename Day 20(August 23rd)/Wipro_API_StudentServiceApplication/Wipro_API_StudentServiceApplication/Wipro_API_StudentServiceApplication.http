@@ -1,0 +1,6 @@
+@Wipro_API_StudentServiceApplication_HostAddress = http://localhost:5190
+
+GET {{Wipro_API_StudentServiceApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

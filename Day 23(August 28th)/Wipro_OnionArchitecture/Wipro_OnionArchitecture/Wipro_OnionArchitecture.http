@@ -1,0 +1,6 @@
+@Wipro_OnionArchitecture_HostAddress = http://localhost:5288
+
+GET {{Wipro_OnionArchitecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

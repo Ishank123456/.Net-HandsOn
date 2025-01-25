@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_WhileLoop_Example\Wipro_WhileLoop_Example\bin\Debug\Wipro_WhileLoop_Example.exe.config
+C:\Users\hp\source\repos\Wipro_WhileLoop_Example\Wipro_WhileLoop_Example\bin\Debug\Wipro_WhileLoop_Example.exe
+C:\Users\hp\source\repos\Wipro_WhileLoop_Example\Wipro_WhileLoop_Example\bin\Debug\Wipro_WhileLoop_Example.pdb
+C:\Users\hp\source\repos\Wipro_WhileLoop_Example\Wipro_WhileLoop_Example\obj\Debug\Wipro_WhileLoop_Example.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_WhileLoop_Example\Wipro_WhileLoop_Example\obj\Debug\Wipro_WhileLoop_Example.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_WhileLoop_Example\Wipro_WhileLoop_Example\obj\Debug\Wipro_WhileLoop_Example.exe
+C:\Users\hp\source\repos\Wipro_WhileLoop_Example\Wipro_WhileLoop_Example\obj\Debug\Wipro_WhileLoop_Example.pdb

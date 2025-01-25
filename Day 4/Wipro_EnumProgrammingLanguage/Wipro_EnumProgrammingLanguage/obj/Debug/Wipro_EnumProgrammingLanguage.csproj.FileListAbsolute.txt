@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_EnumProgrammingLanguage\Wipro_EnumProgrammingLanguage\bin\Debug\Wipro_EnumProgrammingLanguage.exe.config
+C:\Users\hp\source\repos\Wipro_EnumProgrammingLanguage\Wipro_EnumProgrammingLanguage\bin\Debug\Wipro_EnumProgrammingLanguage.exe
+C:\Users\hp\source\repos\Wipro_EnumProgrammingLanguage\Wipro_EnumProgrammingLanguage\bin\Debug\Wipro_EnumProgrammingLanguage.pdb
+C:\Users\hp\source\repos\Wipro_EnumProgrammingLanguage\Wipro_EnumProgrammingLanguage\obj\Debug\Wipro_EnumProgrammingLanguage.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_EnumProgrammingLanguage\Wipro_EnumProgrammingLanguage\obj\Debug\Wipro_EnumProgrammingLanguage.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_EnumProgrammingLanguage\Wipro_EnumProgrammingLanguage\obj\Debug\Wipro_EnumProgrammingLanguage.exe
+C:\Users\hp\source\repos\Wipro_EnumProgrammingLanguage\Wipro_EnumProgrammingLanguage\obj\Debug\Wipro_EnumProgrammingLanguage.pdb

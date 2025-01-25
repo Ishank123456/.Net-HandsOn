@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\Wipro_SealedClass_Ex1\Wipro_SealedClass_Ex1\obj\Debug\Wipro_SealedClass_Ex1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_SealedClass_Ex1\Wipro_SealedClass_Ex1\obj\Debug\Wipro_SealedClass_Ex1.csproj.CoreCompileInputs.cache

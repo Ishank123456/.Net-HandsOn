@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_ADONET_DatabaseConnectivity_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73476C98-A1C3-42DD-8147-B4DB22799F44}|Wipro_ADONET_DatabaseConnectivity_Ex1\\Wipro_ADONET_DatabaseConnectivity_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_adonet_databaseconnectivity_ex1\\wipro_adonet_databaseconnectivity_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73476C98-A1C3-42DD-8147-B4DB22799F44}|Wipro_ADONET_DatabaseConnectivity_Ex1\\Wipro_ADONET_DatabaseConnectivity_Ex1.csproj|solutionrelative:wipro_adonet_databaseconnectivity_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_ADONET_DatabaseConnectivity_Ex1\\Wipro_ADONET_DatabaseConnectivity_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_ADONET_DatabaseConnectivity_Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_ADONET_DatabaseConnectivity_Ex1\\Wipro_ADONET_DatabaseConnectivity_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_ADONET_DatabaseConnectivity_Ex1\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:58:25.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

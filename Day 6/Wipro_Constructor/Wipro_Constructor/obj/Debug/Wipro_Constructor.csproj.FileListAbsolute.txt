@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Constructor\Wipro_Constructor\bin\Debug\Wipro_Constructor.exe.config
+C:\Users\hp\source\repos\Wipro_Constructor\Wipro_Constructor\bin\Debug\Wipro_Constructor.exe
+C:\Users\hp\source\repos\Wipro_Constructor\Wipro_Constructor\bin\Debug\Wipro_Constructor.pdb
+C:\Users\hp\source\repos\Wipro_Constructor\Wipro_Constructor\obj\Debug\Wipro_Constructor.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Constructor\Wipro_Constructor\obj\Debug\Wipro_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Constructor\Wipro_Constructor\obj\Debug\Wipro_Constructor.exe
+C:\Users\hp\source\repos\Wipro_Constructor\Wipro_Constructor\obj\Debug\Wipro_Constructor.pdb

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_factorydesignpattern_ex3\\wipro_factorydesignpattern_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|solutionrelative:wipro_factorydesignpattern_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_factorydesignpattern_ex3\\wipro_factorydesignpattern_ex3\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|solutionrelative:wipro_factorydesignpattern_ex3\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_factorydesignpattern_ex3\\wipro_factorydesignpattern_ex3\\msaccessclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|solutionrelative:wipro_factorydesignpattern_ex3\\msaccessclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_factorydesignpattern_ex3\\wipro_factorydesignpattern_ex3\\oracleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|solutionrelative:wipro_factorydesignpattern_ex3\\oracleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_factorydesignpattern_ex3\\wipro_factorydesignpattern_ex3\\sqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|solutionrelative:wipro_factorydesignpattern_ex3\\sqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_factorydesignpattern_ex3\\wipro_factorydesignpattern_ex3\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2944B7AC-AB1C-4BA0-9AFC-E1BCEB8C5D5B}|Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3.csproj|solutionrelative:wipro_factorydesignpattern_ex3\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\Factory.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex3\\Factory.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\Factory.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex3\\Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:56:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSAccessClient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\MSAccessClient.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex3\\MSAccessClient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\MSAccessClient.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex3\\MSAccessClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:50:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OracleClient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\OracleClient.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex3\\OracleClient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\OracleClient.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex3\\OracleClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:50:43.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlClient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\SqlClient.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex3\\SqlClient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\SqlClient.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex3\\SqlClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:50:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\IDataProvider.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex3\\IDataProvider.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\IDataProvider.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex3\\IDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:50:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_FactoryDesignPattern_Ex3\\Wipro_FactoryDesignPattern_Ex3\\Program.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:49:48.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

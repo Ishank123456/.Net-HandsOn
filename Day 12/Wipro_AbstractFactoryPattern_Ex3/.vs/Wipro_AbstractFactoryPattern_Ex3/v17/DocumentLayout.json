@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\breadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\breadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\italiancheesebasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\italiancheesebasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\veggiebasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\veggiebasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\punjabitadkabasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\punjabitadkabasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|c:\\users\\hp\\source\\repos\\wipro_abstractfactorypattern_ex3\\wipro_abstractfactorypattern_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\hotindianmasalabasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\hotindianmasalabasebread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\americanbreadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\americanbreadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\wipro_abstractfactorypattern_ex3\\indianbreadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FA790-E94A-479D-A742-6F058D50DEAB}|Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3.csproj|solutionrelative:wipro_abstractfactorypattern_ex3\\indianbreadfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AmericanBreadFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\AmericanBreadFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\AmericanBreadFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\AmericanBreadFactory.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\AmericanBreadFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:19:10.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndianBreadFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\IndianBreadFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\IndianBreadFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\IndianBreadFactory.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\IndianBreadFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:03:32.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BreadFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\BreadFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\BreadFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\BreadFactory.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\BreadFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:03:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItalianCheeseBaseBread.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\ItalianCheeseBaseBread.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\ItalianCheeseBaseBread.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\ItalianCheeseBaseBread.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\ItalianCheeseBaseBread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:03:32.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeggieBaseBread.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\VeggieBaseBread.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\VeggieBaseBread.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\VeggieBaseBread.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\VeggieBaseBread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:03:32.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PunjabiTadkaBaseBread.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\PunjabiTadkaBaseBread.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\PunjabiTadkaBaseBread.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\PunjabiTadkaBaseBread.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\PunjabiTadkaBaseBread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:03:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bread.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\Bread.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\Bread.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\Bread.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\Bread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:03:32.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotIndianMasalaBaseBread.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\HotIndianMasalaBaseBread.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\HotIndianMasalaBaseBread.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\HotIndianMasalaBaseBread.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\HotIndianMasalaBaseBread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:03:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex3\\Wipro_AbstractFactoryPattern_Ex3\\Program.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:23:59.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

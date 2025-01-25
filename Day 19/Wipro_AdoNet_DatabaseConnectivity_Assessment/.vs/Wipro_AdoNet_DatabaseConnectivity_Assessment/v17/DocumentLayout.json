@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|c:\\users\\hp\\source\\repos\\wipro_adonet_databaseconnectivity_assessment\\wipro_adonet_databaseconnectivity_assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|solutionrelative:wipro_adonet_databaseconnectivity_assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\wipro_adonet_databaseconnectivity_assessment\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|solutionrelative:wipro_adonet_databaseconnectivity_assessment\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\wipro_adonet_databaseconnectivity_assessment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|solutionrelative:wipro_adonet_databaseconnectivity_assessment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\wipro_adonet_databaseconnectivity_assessment\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5628437F-9ECB-43D9-9ED5-3355943AA1C1}|Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment.csproj|solutionrelative:wipro_adonet_databaseconnectivity_assessment\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Customer.cs",
+              "RelativeDocumentMoniker": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Customer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Customer.cs",
+              "RelativeToolTip": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:52:46.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Employee.cs",
+              "RelativeDocumentMoniker": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Employee.cs",
+              "RelativeToolTip": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:49:42.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Department.cs",
+              "RelativeDocumentMoniker": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Department.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Department.cs",
+              "RelativeToolTip": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:49:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Wipro_AdoNet_DatabaseConnectivity_Assessment\\Program.cs",
+              "RelativeToolTip": "Wipro_AdoNet_DatabaseConnectivity_Assessment\\Program.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAgwI4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:17:39.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

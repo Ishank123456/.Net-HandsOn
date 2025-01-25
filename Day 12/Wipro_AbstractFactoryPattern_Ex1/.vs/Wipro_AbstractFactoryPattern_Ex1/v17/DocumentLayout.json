@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_abstractfactorypattern_ex1\\wipro_abstractfactorypattern_ex1\\imovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|solutionrelative:wipro_abstractfactorypattern_ex1\\imovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\wipro_abstractfactorypattern_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|solutionrelative:wipro_abstractfactorypattern_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\wipro_abstractfactorypattern_ex1\\moviefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|solutionrelative:wipro_abstractfactorypattern_ex1\\moviefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\wipro_abstractfactorypattern_ex1\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C3DA52-4847-46C4-AC4C-C8557F1DDAFA}|Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1.csproj|solutionrelative:wipro_abstractfactorypattern_ex1\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\MovieFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex1\\MovieFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\MovieFactory.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex1\\MovieFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:38:43.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\Movies.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex1\\Movies.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\Movies.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex1\\Movies.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:54:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMovies.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\IMovies.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex1\\IMovies.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\IMovies.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex1\\IMovies.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:30:37.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_AbstractFactoryPattern_Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_AbstractFactoryPattern_Ex1\\Wipro_AbstractFactoryPattern_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_AbstractFactoryPattern_Ex1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:29:59.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

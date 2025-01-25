@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_AbstractClass_Ex2\Wipro_AbstractClass_Ex2\bin\Debug\Wipro_AbstractClass_Ex2.exe.config
+C:\Users\hp\source\repos\Wipro_AbstractClass_Ex2\Wipro_AbstractClass_Ex2\bin\Debug\Wipro_AbstractClass_Ex2.exe
+C:\Users\hp\source\repos\Wipro_AbstractClass_Ex2\Wipro_AbstractClass_Ex2\bin\Debug\Wipro_AbstractClass_Ex2.pdb
+C:\Users\hp\source\repos\Wipro_AbstractClass_Ex2\Wipro_AbstractClass_Ex2\obj\Debug\Wipro_AbstractClass_Ex2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_AbstractClass_Ex2\Wipro_AbstractClass_Ex2\obj\Debug\Wipro_AbstractClass_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_AbstractClass_Ex2\Wipro_AbstractClass_Ex2\obj\Debug\Wipro_AbstractClass_Ex2.exe
+C:\Users\hp\source\repos\Wipro_AbstractClass_Ex2\Wipro_AbstractClass_Ex2\obj\Debug\Wipro_AbstractClass_Ex2.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Unboxing\Wipro_Unboxing\bin\Debug\Wipro_Unboxing.exe.config
+C:\Users\hp\source\repos\Wipro_Unboxing\Wipro_Unboxing\bin\Debug\Wipro_Unboxing.exe
+C:\Users\hp\source\repos\Wipro_Unboxing\Wipro_Unboxing\bin\Debug\Wipro_Unboxing.pdb
+C:\Users\hp\source\repos\Wipro_Unboxing\Wipro_Unboxing\obj\Debug\Wipro_Unboxing.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Unboxing\Wipro_Unboxing\obj\Debug\Wipro_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Unboxing\Wipro_Unboxing\obj\Debug\Wipro_Unboxing.exe
+C:\Users\hp\source\repos\Wipro_Unboxing\Wipro_Unboxing\obj\Debug\Wipro_Unboxing.pdb

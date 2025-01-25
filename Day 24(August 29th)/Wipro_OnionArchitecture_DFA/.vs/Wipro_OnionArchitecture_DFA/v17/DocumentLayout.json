@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\wipro_onionarchitecture_dfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|solutionrelative:wipro_onionarchitecture_dfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|solutionrelative:services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\services\\repository\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|solutionrelative:services\\repository\\iuserprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\wipro_onionarchitecture_dfa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|solutionrelative:wipro_onionarchitecture_dfa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48065A5A-6A23-4EE8-9576-BD434D64C011}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\domain\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48065A5A-6A23-4EE8-9576-BD434D64C011}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\wipro_onionarchitecture_dfa\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|solutionrelative:wipro_onionarchitecture_dfa\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\wipro_onionarchitecture_dfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|solutionrelative:wipro_onionarchitecture_dfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\services\\repository\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|solutionrelative:services\\repository\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48065A5A-6A23-4EE8-9576-BD434D64C011}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48065A5A-6A23-4EE8-9576-BD434D64C011}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|solutionrelative:services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90410EF7-4015-491E-ADA3-2A73B9186114}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\dal\\entityframework\\wipro29082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90410EF7-4015-491E-ADA3-2A73B9186114}|DAL\\DAL.csproj|solutionrelative:dal\\entityframework\\wipro29082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6943A76-69E7-4D65-8E03-98D024F5A2E4}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\wipro_onionarchitecture_dfa\\wipro_onionarchitecture_dfa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C3E8680-498F-45AC-B39F-E6DA183B32FB}|Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj|solutionrelative:wipro_onionarchitecture_dfa\\wipro_onionarchitecture_dfa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Models\\Wipro29082024Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Models\\Wipro29082024Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48065A5A-6A23-4EE8-9576-BD434D64C011}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_onionarchitecture_dfa\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48065A5A-6A23-4EE8-9576-BD434D64C011}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnionArchitecture_DFA\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Wipro_OnionArchitecture_DFA\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwHEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:16:11.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:40:57.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:32:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_OnionArchitecture_DFA\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\Program.cs",
+              "RelativeToolTip": "Wipro_OnionArchitecture_DFA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:05:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\UserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\UserProfileRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\UserProfileRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:33:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\IUserProfileRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IUserProfileRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\IUserProfileRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IUserProfileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:33:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:32:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_OnionArchitecture_DFA\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\appsettings.json",
+              "RelativeToolTip": "Wipro_OnionArchitecture_DFA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T04:56:34.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Domain\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:19:02.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\DTO\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_OnionArchitecture_DFA\\DTO\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\DTO\\CreateUserDTO.cs",
+              "RelativeToolTip": "Wipro_OnionArchitecture_DFA\\DTO\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:18:39.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T05:04:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wipro29082024Context.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\DAL\\EntityFramework\\Wipro29082024Context.cs",
+              "RelativeDocumentMoniker": "DAL\\EntityFramework\\Wipro29082024Context.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\DAL\\EntityFramework\\Wipro29082024Context.cs",
+              "RelativeToolTip": "DAL\\EntityFramework\\Wipro29082024Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:30:51.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Wipro_OnionArchitecture_DFA",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj",
+              "RelativeDocumentMoniker": "Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj",
+              "RelativeToolTip": "Wipro_OnionArchitecture_DFA\\Wipro_OnionArchitecture_DFA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T04:48:13.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wipro29082024Context.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Models\\Wipro29082024Context.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Wipro29082024Context.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Models\\Wipro29082024Context.cs",
+              "RelativeToolTip": "Domain\\Models\\Wipro29082024Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:30:24.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T04:03:01.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

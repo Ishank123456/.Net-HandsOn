@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_2\Wipro_ClassesAndObjects_Ex_2\bin\Debug\Wipro_ClassesAndObjects_Ex_2.exe.config
+C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_2\Wipro_ClassesAndObjects_Ex_2\bin\Debug\Wipro_ClassesAndObjects_Ex_2.exe
+C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_2\Wipro_ClassesAndObjects_Ex_2\bin\Debug\Wipro_ClassesAndObjects_Ex_2.pdb
+C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_2\Wipro_ClassesAndObjects_Ex_2\obj\Debug\Wipro_ClassesAndObjects_Ex_2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_2\Wipro_ClassesAndObjects_Ex_2\obj\Debug\Wipro_ClassesAndObjects_Ex_2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_2\Wipro_ClassesAndObjects_Ex_2\obj\Debug\Wipro_ClassesAndObjects_Ex_2.exe
+C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_2\Wipro_ClassesAndObjects_Ex_2\obj\Debug\Wipro_ClassesAndObjects_Ex_2.pdb

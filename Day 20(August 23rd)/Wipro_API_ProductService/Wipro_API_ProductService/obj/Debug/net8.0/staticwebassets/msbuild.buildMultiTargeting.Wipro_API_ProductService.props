@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wipro_API_ProductService.props" />
+</Project>

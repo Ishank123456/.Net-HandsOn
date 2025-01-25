@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\apicontrollers\\doctorsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\apicontrollers\\doctorsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\apicontrollers\\patientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\apicontrollers\\patientsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|c:\\users\\hp\\source\\repos\\practice_hmsystem\\practice_hmsystem\\migrations\\20240905040426_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78BBB6-892F-4350-92BE-DDB074A58B66}|Practice_HMSystem\\Practice_HMSystem.csproj|solutionrelative:practice_hmsystem\\migrations\\20240905040426_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Repository\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\DoctorRepository.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Repository\\DoctorRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:43:30.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\APIControllers\\DoctorsAPIController.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\APIControllers\\DoctorsAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\APIControllers\\DoctorsAPIController.cs",
+              "RelativeToolTip": "Practice_HMSystem\\APIControllers\\DoctorsAPIController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:57:57.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Repository\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\IDoctorRepository.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Repository\\IDoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:43:18.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:02:26.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:09:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Program.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:56:42.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "Practice_HMSystem\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T04:35:10.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\APIControllers\\PatientsAPIController.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\APIControllers\\PatientsAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\APIControllers\\PatientsAPIController.cs",
+              "RelativeToolTip": "Practice_HMSystem\\APIControllers\\PatientsAPIController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:07:31.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Practice_HMSystem\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:18:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Repository\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Repository\\PatientRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:36:08.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Repository\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Repository\\IPatientRepository.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Repository\\IPatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:35:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:02:00.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Billing.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Models\\Billing.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Billing.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Models\\Billing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:03:16.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:02:51.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\appsettings.json",
+              "RelativeToolTip": "Practice_HMSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T14:31:32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240905040426_Phase1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Migrations\\20240905040426_Phase1.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Migrations\\20240905040426_Phase1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Migrations\\20240905040426_Phase1.cs",
+              "RelativeToolTip": "Practice_HMSystem\\Migrations\\20240905040426_Phase1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:04:27.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "Practice_HMSystem\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:19:12.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\EntityFramework\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\EntityFramework\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\EntityFramework\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Practice_HMSystem\\EntityFramework\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:04:11.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Views\\Patients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Delete.cshtml",
+              "RelativeToolTip": "Practice_HMSystem\\Views\\Patients\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:21:23.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practice_HMSystem\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Practice_HMSystem\\Practice_HMSystem\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "Practice_HMSystem\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:20:43.253Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

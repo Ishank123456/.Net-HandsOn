@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Wipro_Assesment\Wipro_Assesment_dll\obj\Debug\Wipro_Assesment_dll.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Assesment\Wipro_Assesment_dll\obj\Debug\Wipro_Assesment_dll.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Assesment\Wipro_Assesment_dll\bin\Debug\Wipro_Assesment_dll.dll
+C:\Users\hp\source\repos\Wipro_Assesment\Wipro_Assesment_dll\bin\Debug\Wipro_Assesment_dll.pdb
+C:\Users\hp\source\repos\Wipro_Assesment\Wipro_Assesment_dll\obj\Debug\Wipro_Assesment_dll.dll
+C:\Users\hp\source\repos\Wipro_Assesment\Wipro_Assesment_dll\obj\Debug\Wipro_Assesment_dll.pdb

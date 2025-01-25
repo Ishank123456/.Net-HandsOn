@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Area\bin\Debug\Area.dll
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Area\bin\Debug\Area.pdb
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Area\obj\Debug\Wipro_Program4_dll_1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Area\obj\Debug\Wipro_Program4_dll_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Area\obj\Debug\Area.dll
+C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Area\obj\Debug\Area.pdb

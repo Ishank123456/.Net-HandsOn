@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Wipro_Program_Using_Class_Lib\Wipro_ClassLib_dll\bin\Debug\Wipro_ClassLib_dll.dll
+C:\Users\hp\source\repos\Wipro_Program_Using_Class_Lib\Wipro_ClassLib_dll\bin\Debug\Wipro_ClassLib_dll.pdb
+C:\Users\hp\source\repos\Wipro_Program_Using_Class_Lib\Wipro_ClassLib_dll\obj\Debug\Wipro_ClassLib_dll.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Program_Using_Class_Lib\Wipro_ClassLib_dll\obj\Debug\Wipro_ClassLib_dll.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Program_Using_Class_Lib\Wipro_ClassLib_dll\obj\Debug\Wipro_ClassLib_dll.dll
+C:\Users\hp\source\repos\Wipro_Program_Using_Class_Lib\Wipro_ClassLib_dll\obj\Debug\Wipro_ClassLib_dll.pdb

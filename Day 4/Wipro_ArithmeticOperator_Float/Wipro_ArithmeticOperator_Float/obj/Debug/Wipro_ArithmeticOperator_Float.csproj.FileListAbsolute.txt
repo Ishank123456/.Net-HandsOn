@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator_Float\Wipro_ArithmeticOperator_Float\bin\Debug\Wipro_ArithmeticOperator_Float.exe.config
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator_Float\Wipro_ArithmeticOperator_Float\bin\Debug\Wipro_ArithmeticOperator_Float.exe
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator_Float\Wipro_ArithmeticOperator_Float\bin\Debug\Wipro_ArithmeticOperator_Float.pdb
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator_Float\Wipro_ArithmeticOperator_Float\obj\Debug\Wipro_ArithmeticOperator_Float.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator_Float\Wipro_ArithmeticOperator_Float\obj\Debug\Wipro_ArithmeticOperator_Float.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator_Float\Wipro_ArithmeticOperator_Float\obj\Debug\Wipro_ArithmeticOperator_Float.exe
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator_Float\Wipro_ArithmeticOperator_Float\obj\Debug\Wipro_ArithmeticOperator_Float.pdb

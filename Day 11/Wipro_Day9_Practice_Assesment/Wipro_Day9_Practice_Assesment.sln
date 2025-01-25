@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Day9_Practice_Assesment", "Wipro_Day9_Practice_Assesment\Wipro_Day9_Practice_Assesment.csproj", "{B57DBA07-1626-4A95-B60B-6FBF66F6427B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57DBA07-1626-4A95-B60B-6FBF66F6427B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57DBA07-1626-4A95-B60B-6FBF66F6427B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57DBA07-1626-4A95-B60B-6FBF66F6427B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57DBA07-1626-4A95-B60B-6FBF66F6427B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307BDE3C-2440-4AAD-84BD-2F676C3F9406}
+	EndGlobalSection
+EndGlobal

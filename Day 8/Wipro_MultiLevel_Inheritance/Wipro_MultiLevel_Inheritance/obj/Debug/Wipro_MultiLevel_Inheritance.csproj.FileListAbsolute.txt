@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_MultiLevel_Inheritance\Wipro_MultiLevel_Inheritance\bin\Debug\Wipro_MultiLevel_Inheritance.exe.config
+C:\Users\hp\source\repos\Wipro_MultiLevel_Inheritance\Wipro_MultiLevel_Inheritance\bin\Debug\Wipro_MultiLevel_Inheritance.exe
+C:\Users\hp\source\repos\Wipro_MultiLevel_Inheritance\Wipro_MultiLevel_Inheritance\bin\Debug\Wipro_MultiLevel_Inheritance.pdb
+C:\Users\hp\source\repos\Wipro_MultiLevel_Inheritance\Wipro_MultiLevel_Inheritance\obj\Debug\Wipro_MultiLevel_Inheritance.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_MultiLevel_Inheritance\Wipro_MultiLevel_Inheritance\obj\Debug\Wipro_MultiLevel_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_MultiLevel_Inheritance\Wipro_MultiLevel_Inheritance\obj\Debug\Wipro_MultiLevel_Inheritance.exe
+C:\Users\hp\source\repos\Wipro_MultiLevel_Inheritance\Wipro_MultiLevel_Inheritance\obj\Debug\Wipro_MultiLevel_Inheritance.pdb

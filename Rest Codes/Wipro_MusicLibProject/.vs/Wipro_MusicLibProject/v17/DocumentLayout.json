@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779AC2A4-68D2-493C-9E3B-DD862901B0BB}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\dal\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779AC2A4-68D2-493C-9E3B-DD862901B0BB}|DAL\\DAL.csproj|solutionrelative:dal\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\apicontroller\\loginapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\apicontroller\\loginapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\viewmodel\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\viewmodel\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\services\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|solutionrelative:services\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917AA2-A696-4C9F-A8F4-A304F37A194C}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917AA2-A696-4C9F-A8F4-A304F37A194C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917AA2-A696-4C9F-A8F4-A304F37A194C}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\domain\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917AA2-A696-4C9F-A8F4-A304F37A194C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\services\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|solutionrelative:services\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|solutionrelative:services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7917AA2-A696-4C9F-A8F4-A304F37A194C}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\domain\\models\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7917AA2-A696-4C9F-A8F4-A304F37A194C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\dto\\userdtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\dto\\userdtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035CDDDB-753F-4243-B379-CABECC49A7B9}|Services\\Services.csproj|solutionrelative:services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|c:\\users\\hp\\source\\repos\\wipro_musiclibproject\\wipro_musiclibproject\\migrations\\20240906065056_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F929E90-3827-4D98-B50D-203957E666C7}|Wipro_MusicLibProject\\Wipro_MusicLibProject.csproj|solutionrelative:wipro_musiclibproject\\migrations\\20240906065056_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:42:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Program.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:32:18.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\EntityFramework\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:04:59.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\APIController\\UserAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\APIController\\UserAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\APIController\\UserAPIController.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\APIController\\UserAPIController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:27:06.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:01:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\DTO\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\DTO\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\DTO\\UserLoginDTO.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\DTO\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:05:39.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\APIController\\LoginAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\APIController\\LoginAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\APIController\\LoginAPIController.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\APIController\\LoginAPIController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:08:57.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Wipro_MusicLibProject\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T11:55:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Wipro_MusicLibProject\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T05:08:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\ViewModel\\UserLoginViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\ViewModel\\UserLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\ViewModel\\UserLoginViewModel.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\ViewModel\\UserLoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:07:48.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:03:23.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:28:30.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\LoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:34:07.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:55:48.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Domain\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Domain\\Models\\Artist.cs",
+              "RelativeToolTip": "Domain\\Models\\Artist.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:36:55.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\ILoginRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:33:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\appsettings.json",
+              "RelativeToolTip": "Wipro_MusicLibProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T06:37:58.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:10:27.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:13:13.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Domain\\Models\\UserMap.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserMap.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Domain\\Models\\UserMap.cs",
+              "RelativeToolTip": "Domain\\Models\\UserMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:03:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDTOCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\DTO\\UserDTOCreate.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\DTO\\UserDTOCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\DTO\\UserDTOCreate.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\DTO\\UserDTOCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:41:49.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240906065056_Phase1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Migrations\\20240906065056_Phase1.cs",
+              "RelativeDocumentMoniker": "Wipro_MusicLibProject\\Migrations\\20240906065056_Phase1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Wipro_MusicLibProject\\Migrations\\20240906065056_Phase1.cs",
+              "RelativeToolTip": "Wipro_MusicLibProject\\Migrations\\20240906065056_Phase1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:50:56.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_MusicLibProject\\Services\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:11:45.77Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

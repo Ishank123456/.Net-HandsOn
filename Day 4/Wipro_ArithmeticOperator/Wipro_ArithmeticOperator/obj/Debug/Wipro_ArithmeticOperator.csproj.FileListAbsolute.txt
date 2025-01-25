@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator\Wipro_ArithmeticOperator\bin\Debug\Wipro_ArithmeticOperator.exe.config
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator\Wipro_ArithmeticOperator\bin\Debug\Wipro_ArithmeticOperator.exe
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator\Wipro_ArithmeticOperator\bin\Debug\Wipro_ArithmeticOperator.pdb
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator\Wipro_ArithmeticOperator\obj\Debug\Wipro_ArithmeticOperator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator\Wipro_ArithmeticOperator\obj\Debug\Wipro_ArithmeticOperator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator\Wipro_ArithmeticOperator\obj\Debug\Wipro_ArithmeticOperator.exe
+C:\Users\hp\source\repos\Wipro_ArithmeticOperator\Wipro_ArithmeticOperator\obj\Debug\Wipro_ArithmeticOperator.pdb

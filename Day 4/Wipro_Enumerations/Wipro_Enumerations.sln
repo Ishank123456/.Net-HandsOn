@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Enumerations", "Wipro_Enumerations\Wipro_Enumerations.csproj", "{295D589E-EE02-4FD3-B86D-9C78DBB09A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295D589E-EE02-4FD3-B86D-9C78DBB09A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295D589E-EE02-4FD3-B86D-9C78DBB09A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295D589E-EE02-4FD3-B86D-9C78DBB09A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295D589E-EE02-4FD3-B86D-9C78DBB09A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7228A001-53FC-4BBA-BE1F-3A0F8AD225C3}
+	EndGlobalSection
+EndGlobal

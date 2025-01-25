@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_ActionDelegates_Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA464D5F-C7E4-45B0-BE83-DCA65BFAABA1}|Wipro_ActionDelegates_Ex2\\Wipro_ActionDelegates_Ex2.csproj|c:\\users\\hp\\source\\repos\\wipro_actiondelegates_ex2\\wipro_actiondelegates_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA464D5F-C7E4-45B0-BE83-DCA65BFAABA1}|Wipro_ActionDelegates_Ex2\\Wipro_ActionDelegates_Ex2.csproj|solutionrelative:wipro_actiondelegates_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_ActionDelegates_Ex2\\Wipro_ActionDelegates_Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_ActionDelegates_Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_ActionDelegates_Ex2\\Wipro_ActionDelegates_Ex2\\Program.cs",
+              "RelativeToolTip": "Wipro_ActionDelegates_Ex2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:12:55.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

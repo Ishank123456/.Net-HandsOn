@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\wipro_builderdesignpattern_ex1\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|solutionrelative:wipro_builderdesignpattern_ex1\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\wipro_builderdesignpattern_ex1\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|solutionrelative:wipro_builderdesignpattern_ex1\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\wipro_builderdesignpattern_ex1\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|solutionrelative:wipro_builderdesignpattern_ex1\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\wipro_builderdesignpattern_ex1\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|solutionrelative:wipro_builderdesignpattern_ex1\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_builderdesignpattern_ex1\\wipro_builderdesignpattern_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C19D932-7E90-4D67-9A74-E856F86F21F7}|Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1.csproj|solutionrelative:wipro_builderdesignpattern_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Director.cs",
+              "RelativeDocumentMoniker": "Wipro_BuilderDesignPattern_Ex1\\Director.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Director.cs",
+              "RelativeToolTip": "Wipro_BuilderDesignPattern_Ex1\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:37:58.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Audi.cs",
+              "RelativeDocumentMoniker": "Wipro_BuilderDesignPattern_Ex1\\Audi.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Audi.cs",
+              "RelativeToolTip": "Wipro_BuilderDesignPattern_Ex1\\Audi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:36:20.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Mercedes.cs",
+              "RelativeDocumentMoniker": "Wipro_BuilderDesignPattern_Ex1\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Mercedes.cs",
+              "RelativeToolTip": "Wipro_BuilderDesignPattern_Ex1\\Mercedes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:33:40.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\IBuilder.cs",
+              "RelativeDocumentMoniker": "Wipro_BuilderDesignPattern_Ex1\\IBuilder.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\IBuilder.cs",
+              "RelativeToolTip": "Wipro_BuilderDesignPattern_Ex1\\IBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:32:28.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_BuilderDesignPattern_Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_BuilderDesignPattern_Ex1\\Wipro_BuilderDesignPattern_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_BuilderDesignPattern_Ex1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:32:03.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

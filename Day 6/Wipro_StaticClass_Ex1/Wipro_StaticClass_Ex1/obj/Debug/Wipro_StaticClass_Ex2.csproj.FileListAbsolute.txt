@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_StaticClass_Ex1\Wipro_StaticClass_Ex1\obj\Debug\Wipro_StaticClass_Ex2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_StaticClass_Ex1\Wipro_StaticClass_Ex1\obj\Debug\Wipro_StaticClass_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_StaticClass_Ex1\Wipro_StaticClass_Ex1\obj\Debug\Wipro_StaticClass_Ex1.exe
+C:\Users\hp\source\repos\Wipro_StaticClass_Ex1\Wipro_StaticClass_Ex1\obj\Debug\Wipro_StaticClass_Ex1.pdb
+C:\Users\hp\source\repos\Wipro_StaticClass_Ex1\Wipro_StaticClass_Ex1\bin\Debug\Wipro_StaticClass_Ex1.exe.config
+C:\Users\hp\source\repos\Wipro_StaticClass_Ex1\Wipro_StaticClass_Ex1\bin\Debug\Wipro_StaticClass_Ex1.exe
+C:\Users\hp\source\repos\Wipro_StaticClass_Ex1\Wipro_StaticClass_Ex1\bin\Debug\Wipro_StaticClass_Ex1.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_NestedWhileLoop\Wipro_NestedWhileLoop\bin\Debug\Wipro_NestedWhileLoop.exe.config
+C:\Users\hp\source\repos\Wipro_NestedWhileLoop\Wipro_NestedWhileLoop\bin\Debug\Wipro_NestedWhileLoop.exe
+C:\Users\hp\source\repos\Wipro_NestedWhileLoop\Wipro_NestedWhileLoop\bin\Debug\Wipro_NestedWhileLoop.pdb
+C:\Users\hp\source\repos\Wipro_NestedWhileLoop\Wipro_NestedWhileLoop\obj\Debug\Wipro_NestedWhileLoop.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_NestedWhileLoop\Wipro_NestedWhileLoop\obj\Debug\Wipro_NestedWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_NestedWhileLoop\Wipro_NestedWhileLoop\obj\Debug\Wipro_NestedWhileLoop.exe
+C:\Users\hp\source\repos\Wipro_NestedWhileLoop\Wipro_NestedWhileLoop\obj\Debug\Wipro_NestedWhileLoop.pdb

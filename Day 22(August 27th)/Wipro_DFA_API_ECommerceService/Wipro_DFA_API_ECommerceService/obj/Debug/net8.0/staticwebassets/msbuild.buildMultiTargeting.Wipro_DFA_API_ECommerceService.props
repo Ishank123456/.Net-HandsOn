@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wipro_DFA_API_ECommerceService.props" />
+</Project>

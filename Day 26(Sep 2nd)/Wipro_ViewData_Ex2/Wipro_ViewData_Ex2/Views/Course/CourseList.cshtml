@@ -1,0 +1,30 @@
+﻿<html>
+    <head>
+        <title>Course Details Page</title>
+    </head>
+
+    <body>
+        <h1>List of Courses</h1>
+        <h2>Ordered List</h2>
+    <ol>
+        @{
+            foreach (var item in (List<string>)ViewData["LstCourses"])
+            {
+                <li>@item</li>
+            }
+        }
+    </ol>
+
+    <hr/>
+
+    <h2>Unordered List</h2>
+    <ul>
+        @{
+            foreach (var item in (List<string>)ViewData["LstCourses"])
+            {
+                <li>@item</li>
+            }
+        }
+    </ul>
+    </body>
+</html>

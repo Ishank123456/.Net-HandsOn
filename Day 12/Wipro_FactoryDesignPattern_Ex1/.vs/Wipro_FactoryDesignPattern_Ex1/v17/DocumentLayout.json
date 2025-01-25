@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|f:\\.net hands on\\day 12\\wipro_factorydesignpattern_ex1\\wipro_factorydesignpattern_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|solutionrelative:wipro_factorydesignpattern_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\wipro_factorydesignpattern_ex1\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|solutionrelative:wipro_factorydesignpattern_ex1\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\wipro_factorydesignpattern_ex1\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|solutionrelative:wipro_factorydesignpattern_ex1\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\wipro_factorydesignpattern_ex1\\derived1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|solutionrelative:wipro_factorydesignpattern_ex1\\derived1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\wipro_factorydesignpattern_ex1\\derived2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591673B1-0261-4EF6-89F9-E2225020B212}|Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1.csproj|solutionrelative:wipro_factorydesignpattern_ex1\\derived2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Factory.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex1\\Factory.cs",
+              "ToolTip": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Factory.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex1\\Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:56:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Derived2.cs",
+              "DocumentMoniker": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Derived2.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex1\\Derived2.cs",
+              "ToolTip": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Derived2.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex1\\Derived2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:55:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Derived1.cs",
+              "DocumentMoniker": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Derived1.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex1\\Derived1.cs",
+              "ToolTip": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Derived1.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex1\\Derived1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:54:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBase.cs",
+              "DocumentMoniker": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\IBase.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex1\\IBase.cs",
+              "ToolTip": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\IBase.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex1\\IBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:54:12.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_FactoryDesignPattern_Ex1\\Program.cs",
+              "ToolTip": "F:\\.NET Hands On\\Day 12\\Wipro_FactoryDesignPattern_Ex1\\Wipro_FactoryDesignPattern_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_FactoryDesignPattern_Ex1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:52:53.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

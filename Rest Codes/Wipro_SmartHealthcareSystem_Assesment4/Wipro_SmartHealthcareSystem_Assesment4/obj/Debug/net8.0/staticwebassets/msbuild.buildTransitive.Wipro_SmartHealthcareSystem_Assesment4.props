@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wipro_SmartHealthcareSystem_Assesment4.props" />
+</Project>

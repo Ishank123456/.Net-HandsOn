@@ -1,0 +1,61 @@
+﻿@model Wipro_ViewModel.ViewModel.CustomerDetailsViewModel
+@{
+	ViewData["Title"] = "Index";
+}
+
+<html>
+<head>
+	<title>Customer Details</title>
+</head>
+<body>
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Id</th>
+				<th>Name</th>
+				<th>Email</th>
+				<th>Gender</th>
+				<th>Contact</th>
+
+			</tr>
+		</thead>
+
+		<thead>
+			<tr>
+				<td>@Model.Customer.CustomerId</td>
+				<td>@Model.Customer.CustomerName</td>
+				<td>@Model.Customer.CustomerEmail</td>
+				<td>@Model.Customer.CustomerGender</td>
+				<td>@Model.Customer.CustomerContact</td>
+
+				<td>
+					<table class="table table-striped">
+						<thead>
+							<tr>
+								<th>Country</th>
+								<th>State</th>
+								<th>City</th>
+								<th>Pincode</th>
+							</tr>
+
+
+							@foreach (var item in Model.LstCustomerAddress)
+							{
+								<tr>
+									<td>@item.Country</td>
+									<td>@item.State</td>
+									<td>@item.City</td>
+									<td>@item.PinCode</td>
+								</tr>
+							}
+
+						</thead>
+					</table>
+				</td>
+
+
+			</tr>
+		</thead>
+	</table>
+</body>
+</html>

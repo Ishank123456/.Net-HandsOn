@@ -1,0 +1,40 @@
+﻿<html>
+    <head>
+        <title>@ViewData["Title"]</title>
+        <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        </style>
+    </head>
+
+    <body>
+    <h1 style="font-style:italic; text-align:center">@ViewData["Header"]</h1>
+
+    @{
+        var customer = ViewData["CustomerDetails"] as Wipro_ViewData_Ex2.Models.Customer;
+    }
+
+    <table style="width:100%">
+        <tr>
+            <th>Customer ID</th>
+            <th>Customer Name</th>
+            <th>Customer Address</th>
+            <th>Customer Email</th>
+            <th>Customer Contact</th>
+            <th>Customer Age</th>
+            <th>Customer Gender</th>
+        </tr>
+        <tr>
+            <td>@customer.CustomerId</td>
+            <td>@customer.CustomerName</td>
+            <td>@customer.CustomerAddress</td>
+            <td>@customer.CustomerEmail</td>
+            <td>@customer.CustomerContact</td>
+            <td>@customer.CustomerAge</td>
+            <td>@customer.CustomerGender</td>
+        </tr>
+    </table>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Arithmetic_UserInput\Wipro_Arithmetic_UserInput\bin\Debug\Wipro_Arithmetic_UserInput.exe.config
+C:\Users\hp\source\repos\Wipro_Arithmetic_UserInput\Wipro_Arithmetic_UserInput\bin\Debug\Wipro_Arithmetic_UserInput.exe
+C:\Users\hp\source\repos\Wipro_Arithmetic_UserInput\Wipro_Arithmetic_UserInput\bin\Debug\Wipro_Arithmetic_UserInput.pdb
+C:\Users\hp\source\repos\Wipro_Arithmetic_UserInput\Wipro_Arithmetic_UserInput\obj\Debug\Wipro_Arithmetic_UserInput.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Arithmetic_UserInput\Wipro_Arithmetic_UserInput\obj\Debug\Wipro_Arithmetic_UserInput.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Arithmetic_UserInput\Wipro_Arithmetic_UserInput\obj\Debug\Wipro_Arithmetic_UserInput.exe
+C:\Users\hp\source\repos\Wipro_Arithmetic_UserInput\Wipro_Arithmetic_UserInput\obj\Debug\Wipro_Arithmetic_UserInput.pdb

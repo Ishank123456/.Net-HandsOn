@@ -1,0 +1,35 @@
+﻿<html>
+    <head>
+    <title>TempData Example Page</title>
+    </head>
+
+    <body>
+        <h1>TempData Example</h1>
+        <hr/>
+
+        <h2>@ViewBag.Name</h2>
+        <hr/>
+
+        <h2>Ordered List</h2>
+        <ol>
+            @{
+                foreach(var item in ViewBag.LstCourse)
+                {
+                    <li>@item</li>
+                }
+            }
+        </ol>
+
+        <hr/>
+
+    <h2>Unordered List</h2>
+    <ul>
+        @{
+            foreach (var item in ViewBag.LstCourse)
+            {
+                <li>@item</li>
+            }
+        }
+    </ul>
+    </body>
+</html>

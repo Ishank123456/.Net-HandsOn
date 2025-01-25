@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_WhileLoop_Example", "Wipro_WhileLoop_Example\Wipro_WhileLoop_Example.csproj", "{5FCAEA93-93DC-418E-9FFD-7D06A98CB11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FCAEA93-93DC-418E-9FFD-7D06A98CB11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCAEA93-93DC-418E-9FFD-7D06A98CB11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCAEA93-93DC-418E-9FFD-7D06A98CB11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCAEA93-93DC-418E-9FFD-7D06A98CB11E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0DB10C-230D-4832-B650-EE7C7F96FDA7}
+	EndGlobalSection
+EndGlobal

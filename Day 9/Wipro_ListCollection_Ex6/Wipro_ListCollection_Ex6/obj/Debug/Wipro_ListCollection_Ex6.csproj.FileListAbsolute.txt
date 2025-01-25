@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_ListCollection_Ex6\Wipro_ListCollection_Ex6\bin\Debug\Wipro_ListCollection_Ex6.exe.config
+C:\Users\hp\source\repos\Wipro_ListCollection_Ex6\Wipro_ListCollection_Ex6\bin\Debug\Wipro_ListCollection_Ex6.exe
+C:\Users\hp\source\repos\Wipro_ListCollection_Ex6\Wipro_ListCollection_Ex6\bin\Debug\Wipro_ListCollection_Ex6.pdb
+C:\Users\hp\source\repos\Wipro_ListCollection_Ex6\Wipro_ListCollection_Ex6\obj\Debug\Wipro_ListCollection_Ex6.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_ListCollection_Ex6\Wipro_ListCollection_Ex6\obj\Debug\Wipro_ListCollection_Ex6.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_ListCollection_Ex6\Wipro_ListCollection_Ex6\obj\Debug\Wipro_ListCollection_Ex6.exe
+C:\Users\hp\source\repos\Wipro_ListCollection_Ex6\Wipro_ListCollection_Ex6\obj\Debug\Wipro_ListCollection_Ex6.pdb

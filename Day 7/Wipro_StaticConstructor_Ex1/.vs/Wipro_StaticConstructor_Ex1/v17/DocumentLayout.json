@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_StaticConstructor_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F911667-D04D-462F-9E68-2D462EAA34E3}|Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_staticconstructor_ex1\\wipro_staticconstructor_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F911667-D04D-462F-9E68-2D462EAA34E3}|Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1.csproj|solutionrelative:wipro_staticconstructor_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F911667-D04D-462F-9E68-2D462EAA34E3}|Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_staticconstructor_ex1\\wipro_staticconstructor_ex1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F911667-D04D-462F-9E68-2D462EAA34E3}|Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1.csproj|solutionrelative:wipro_staticconstructor_ex1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1\\Company.cs",
+              "RelativeDocumentMoniker": "Wipro_StaticConstructor_Ex1\\Company.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1\\Company.cs",
+              "RelativeToolTip": "Wipro_StaticConstructor_Ex1\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:45:28.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_StaticConstructor_Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StaticConstructor_Ex1\\Wipro_StaticConstructor_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_StaticConstructor_Ex1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:45:11.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

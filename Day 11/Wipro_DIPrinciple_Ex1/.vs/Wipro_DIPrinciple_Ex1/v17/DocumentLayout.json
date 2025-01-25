@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NET Hands On\\Day 11\\Wipro_DIPrinciple_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65561570-DD05-4B41-8915-B8A4316EB51D}|Wipro_DIPrinciple_Ex1\\Wipro_DIPrinciple_Ex1.csproj|f:\\.net hands on\\day 11\\wipro_diprinciple_ex1\\wipro_diprinciple_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65561570-DD05-4B41-8915-B8A4316EB51D}|Wipro_DIPrinciple_Ex1\\Wipro_DIPrinciple_Ex1.csproj|solutionrelative:wipro_diprinciple_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NET Hands On\\Day 11\\Wipro_DIPrinciple_Ex1\\Wipro_DIPrinciple_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_DIPrinciple_Ex1\\Program.cs",
+              "ToolTip": "F:\\.NET Hands On\\Day 11\\Wipro_DIPrinciple_Ex1\\Wipro_DIPrinciple_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_DIPrinciple_Ex1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:26:59.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|c:\\users\\hp\\source\\repos\\wipro_stronglytypedview\\wipro_stronglytypedview\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|solutionrelative:wipro_stronglytypedview\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|c:\\users\\hp\\source\\repos\\wipro_stronglytypedview\\wipro_stronglytypedview\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|solutionrelative:wipro_stronglytypedview\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|c:\\users\\hp\\source\\repos\\wipro_stronglytypedview\\wipro_stronglytypedview\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|solutionrelative:wipro_stronglytypedview\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|c:\\users\\hp\\source\\repos\\wipro_stronglytypedview\\wipro_stronglytypedview\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|solutionrelative:wipro_stronglytypedview\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|c:\\users\\hp\\source\\repos\\wipro_stronglytypedview\\wipro_stronglytypedview\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|solutionrelative:wipro_stronglytypedview\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|c:\\users\\hp\\source\\repos\\wipro_stronglytypedview\\wipro_stronglytypedview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66AAED-ACA4-4F50-B451-416DAA72231B}|Wipro_StronglyTypedView\\Wipro_StronglyTypedView.csproj|solutionrelative:wipro_stronglytypedview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wipro_StronglyTypedView\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Wipro_StronglyTypedView\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:51:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Wipro_StronglyTypedView\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Wipro_StronglyTypedView\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:48:04.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Wipro_StronglyTypedView\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Models\\Customer.cs",
+              "RelativeToolTip": "Wipro_StronglyTypedView\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:47:08.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wipro_StronglyTypedView\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Wipro_StronglyTypedView\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:42:38.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Wipro_StronglyTypedView\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Wipro_StronglyTypedView\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:41:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Wipro_StronglyTypedView\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_StronglyTypedView\\Wipro_StronglyTypedView\\Models\\Employee.cs",
+              "RelativeToolTip": "Wipro_StronglyTypedView\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:40:36.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

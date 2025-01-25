@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Array_Example\Wipro_Array_Example\bin\Debug\Wipro_Array_Example.exe.config
+C:\Users\hp\source\repos\Wipro_Array_Example\Wipro_Array_Example\bin\Debug\Wipro_Array_Example.exe
+C:\Users\hp\source\repos\Wipro_Array_Example\Wipro_Array_Example\bin\Debug\Wipro_Array_Example.pdb
+C:\Users\hp\source\repos\Wipro_Array_Example\Wipro_Array_Example\obj\Debug\Wipro_Array_Example.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Array_Example\Wipro_Array_Example\obj\Debug\Wipro_Array_Example.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Array_Example\Wipro_Array_Example\obj\Debug\Wipro_Array_Example.exe
+C:\Users\hp\source\repos\Wipro_Array_Example\Wipro_Array_Example\obj\Debug\Wipro_Array_Example.pdb

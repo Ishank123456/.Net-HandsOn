@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Wipro_Practice_dll\Wipro_Practice_dll\bin\Debug\Wipro_Practice_dll.dll
+C:\Users\hp\source\repos\Wipro_Practice_dll\Wipro_Practice_dll\bin\Debug\Wipro_Practice_dll.pdb
+C:\Users\hp\source\repos\Wipro_Practice_dll\Wipro_Practice_dll\obj\Debug\Wipro_Practice_dll.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Practice_dll\Wipro_Practice_dll\obj\Debug\Wipro_Practice_dll.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Practice_dll\Wipro_Practice_dll\obj\Debug\Wipro_Practice_dll.dll
+C:\Users\hp\source\repos\Wipro_Practice_dll\Wipro_Practice_dll\obj\Debug\Wipro_Practice_dll.pdb

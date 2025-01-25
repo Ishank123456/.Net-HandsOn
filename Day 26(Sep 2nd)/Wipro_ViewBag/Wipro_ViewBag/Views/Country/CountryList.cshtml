@@ -1,0 +1,32 @@
+﻿<html>
+    <head>
+        <title>Country List Page</title>
+    </head>
+
+    <body>
+        <h1 style="text-align:center">List of Countries</h1>
+        <hr/>
+        
+        <h2>Ordered List</h2>
+        <ol>
+        @{
+            foreach(var item in (List<string>)ViewBag.Countries)
+            {
+                <li>@item</li>
+            }
+        }
+        </ol>
+
+        <hr/>
+
+        <h2>Unordered List</h2>
+        <ul>
+            @{
+                foreach (var item in (List<string>)ViewBag.Countries)
+                {
+                    <li>@item</li>
+                }
+            }
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_Inheritance\Wipro_Inheritance\bin\Debug\Wipro_Inheritance.exe.config
+C:\Users\hp\source\repos\Wipro_Inheritance\Wipro_Inheritance\bin\Debug\Wipro_Inheritance.exe
+C:\Users\hp\source\repos\Wipro_Inheritance\Wipro_Inheritance\bin\Debug\Wipro_Inheritance.pdb
+C:\Users\hp\source\repos\Wipro_Inheritance\Wipro_Inheritance\obj\Debug\Wipro_Inheritance.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_Inheritance\Wipro_Inheritance\obj\Debug\Wipro_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_Inheritance\Wipro_Inheritance\obj\Debug\Wipro_Inheritance.exe
+C:\Users\hp\source\repos\Wipro_Inheritance\Wipro_Inheritance\obj\Debug\Wipro_Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro_UnaryOperator\Wipro_UnaryOperator\bin\Debug\Wipro_UnaryOperator.exe.config
+C:\Users\hp\source\repos\Wipro_UnaryOperator\Wipro_UnaryOperator\bin\Debug\Wipro_UnaryOperator.exe
+C:\Users\hp\source\repos\Wipro_UnaryOperator\Wipro_UnaryOperator\bin\Debug\Wipro_UnaryOperator.pdb
+C:\Users\hp\source\repos\Wipro_UnaryOperator\Wipro_UnaryOperator\obj\Debug\Wipro_UnaryOperator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro_UnaryOperator\Wipro_UnaryOperator\obj\Debug\Wipro_UnaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro_UnaryOperator\Wipro_UnaryOperator\obj\Debug\Wipro_UnaryOperator.exe
+C:\Users\hp\source\repos\Wipro_UnaryOperator\Wipro_UnaryOperator\obj\Debug\Wipro_UnaryOperator.pdb

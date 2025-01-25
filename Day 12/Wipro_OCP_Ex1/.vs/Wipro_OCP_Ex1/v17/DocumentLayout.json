@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\japanesecustomershipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\japanesecustomershipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\indiancustomershipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\indiancustomershipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\indiancustomerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\indiancustomerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\customershipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\customershipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\customerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\customerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_ocp_ex1\\wipro_ocp_ex1\\japanesecustomerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888F8C0D-B7C0-4038-B9B4-8593F8D61584}|Wipro_OCP_Ex1\\Wipro_OCP_Ex1.csproj|solutionrelative:wipro_ocp_ex1\\japanesecustomerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JapaneseCustomerShipper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\JapaneseCustomerShipper.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\JapaneseCustomerShipper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\JapaneseCustomerShipper.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\JapaneseCustomerShipper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:48:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndianCustomerShipper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\IndianCustomerShipper.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\IndianCustomerShipper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\IndianCustomerShipper.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\IndianCustomerShipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:04:03.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerShipper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\CustomerShipper.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\CustomerShipper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\CustomerShipper.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\CustomerShipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:37:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JapaneseCustomerOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\JapaneseCustomerOrder.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\JapaneseCustomerOrder.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\JapaneseCustomerOrder.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\JapaneseCustomerOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:42:25.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndianCustomerOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\IndianCustomerOrder.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\IndianCustomerOrder.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\IndianCustomerOrder.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\IndianCustomerOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:41:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\CustomerOrder.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\CustomerOrder.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\CustomerOrder.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\CustomerOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:39:12.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\DataAccess.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:35:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\Product.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\Product.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:34:05.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_OCP_Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OCP_Ex1\\Wipro_OCP_Ex1\\Program.cs",
+              "RelativeToolTip": "Wipro_OCP_Ex1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:33:46.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

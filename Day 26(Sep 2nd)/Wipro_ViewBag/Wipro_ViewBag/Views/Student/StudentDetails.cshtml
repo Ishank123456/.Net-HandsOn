@@ -1,0 +1,33 @@
+﻿<html>
+    <head>
+        <title>Student Details Page</title>
+    </head>
+
+    <body>
+        <h1 style="text-align:center">Student Details</h1>
+
+        <hr/>
+
+        @{
+            var student = ViewBag.Student as Wipro_ViewBag.Models.Student;
+        }
+        <div style="text-align:center">
+            <div>
+                Student ID:     @student.StudentId
+            </div>
+            <div>
+                Student Name:     @student.StudentName
+            </div>
+            <div>
+                Student Branch:     @student.Branch
+            </div>
+            <div>
+                Student Section:     @student.Section
+            </div>
+            <div>
+                Student Gender:     @student.Gender
+            </div>
+        </div>
+        <hr/>
+    </body>
+</html>

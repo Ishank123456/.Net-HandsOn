@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wipro_OnionArchitecture.props" />
+</Project>
