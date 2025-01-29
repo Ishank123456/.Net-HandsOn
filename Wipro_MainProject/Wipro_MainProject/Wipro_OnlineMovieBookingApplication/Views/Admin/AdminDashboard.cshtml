@@ -1,0 +1,142 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        font-family: 'Roboto', sans-serif;
+        background: url('https://i.ibb.co/G9XCzkV/admin-panel2.jpg"') no-repeat center center fixed;
+        background-size: cover; /* Ensures the image covers the whole background */
+        background-attachment: fixed; /* Keeps the background fixed in place while scrolling */
+        margin: 0;
+        padding-top: 60px; /* Adjust if you have a fixed navbar */
+    }
+
+
+    .panel {
+        background-color: #fff;
+        border-radius: 12px;
+        padding: 25px;
+        box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+        margin-bottom: 40px;
+        transition: transform 0.2s ease-in-out;
+    }
+
+        .panel:hover {
+            transform: translateY(-5px);
+        }
+
+    .panel-heading {
+        background-color: #34495e;
+        color: #fff;
+        padding: 15px;
+        font-size: 22px;
+        text-align: center;
+        border-radius: 12px 12px 0 0;
+    }
+
+    .btn-group {
+        display: flex;
+        justify-content: space-between;
+        gap: 15px;
+    }
+
+    .btn-primary {
+        background-color: #3498db;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #2980b9;
+            transform: scale(1.05);
+        }
+
+    table {
+        width: 100%;
+        background-color: white;
+        border-collapse: collapse;
+        margin-top: 30px;
+        border-radius: 8px;
+        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+    }
+
+    th {
+        background-color: #34495e;
+        color: white;
+        padding: 12px;
+        text-align: left;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    td {
+        padding: 12px;
+        color: #2c3e50;
+        font-size: 16px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .btn-info, .btn-danger, .btn-success {
+        border: none;
+        font-size: 16px;
+        padding: 8px 15px;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+
+        .btn-info:hover {
+            background-color: #1abc9c;
+        }
+
+        .btn-danger:hover {
+            background-color: #e74c3c;
+        }
+
+        .btn-success:hover {
+            background-color: #2ecc71;
+        }
+
+    h3 {
+        color: #2c3e50;
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+</style>
+
+<div class="container">
+    <div class="panel">
+        <div class="panel-heading">Admin Panel</div>
+        <div class="panel-body">
+            <div class="btn-group">
+                <a id="createEditUserModel" asp-action="Add" class="btn btn-primary">
+                    Add User
+                </a>
+                <a id="createMovieModel" asp-action="AddMovies" asp-controller="Movie" class="btn btn-primary">
+                    Add Movies
+                </a>
+            </div>
+            <br /><br />
+            <div class="btn-group">
+                <a id="viewUserModel" asp-action="UserDetails" class="btn btn-primary">
+                    View Users
+                </a>
+                <a id="viewMovieModel" href="@Url.Action("MovieDetails", "Movie")" class="btn btn-primary">
+                    View Movies
+                </a>
+                <a id="viewBookingModel" href="@Url.Action("BookingDetails", "Booking")" class="btn btn-primary">
+                    View Bookings
+                </a>
+                <a id="viewBookingModel" href="@Url.Action("GetAllPaymentDetails", "PaymentDetails")" class="btn btn-primary">
+                    View Payments
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

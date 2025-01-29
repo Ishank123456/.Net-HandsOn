@@ -1,0 +1,123 @@
+﻿@using Wipro_OnlineMovieBookingApplication.ViewModels
+@model UserViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: url('https://i.ibb.co/5cxKzwL/user-profile.jpg') no-repeat center center fixed, #f4f4f9;
+        margin: 0;
+        padding: 0;
+        height: 100vh; /* Ensure body takes full viewport height */
+        background-size: cover; /* Cover the entire viewport */
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 20px;
+        background-color: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+        font-size: 36px; /* Larger font size for main title */
+        color: #333; /* Dark color for visibility */
+        text-align: center;
+        margin-bottom: 20px;
+        font-weight: bold; /* Bold text */
+    }
+
+    h3 {
+        font-size: 24px; /* Larger font size for the user name */
+        color: #007bff; /* Blue color to make it stand out */
+        text-align: center;
+        margin-bottom: 20px;
+        font-weight: bold; /* Bold text */
+    }
+
+    dl {
+        margin: 0;
+    }
+
+    dt {
+        font-weight: bold;
+        font-size: 18px; /* Slightly larger font size for labels */
+        color: #444;
+        margin-bottom: 8px;
+    }
+
+    dd {
+        font-size: 16px;
+        color: #333; /* Darker color for readability */
+        margin-bottom: 16px;
+        padding-left: 10px;
+        border-left: 4px solid #007bff; /* Blue border to highlight details */
+        background: #f9f9f9; /* Light background for the details */
+        border-radius: 8px;
+        padding: 10px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        padding: 12px 24px;
+        color: white;
+        border-radius: 30px;
+        font-size: 16px;
+        transition: background-color 0.3s, transform 0.2s;
+        text-align: center;
+        display: inline-block;
+        text-decoration: none;
+        margin: 10px;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            transform: translateY(-2px);
+        }
+
+    hr {
+        border: none;
+        height: 2px;
+        background: #007bff;
+        margin: 20px 0;
+    }
+</style>
+
+<div class="container">
+    <h1>User Details</h1>
+    <h3>@Html.DisplayFor(model => model.Name)</h3>
+    <hr />
+    <dl>
+        <dt>@Html.DisplayNameFor(model => model.UserId)</dt>
+        <dd>@Html.DisplayFor(model => model.UserId)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.UserName)</dt>
+        <dd>@Html.DisplayFor(model => model.UserName)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Name)</dt>
+        <dd>@Html.DisplayFor(model => model.Name)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Address)</dt>
+        <dd>@Html.DisplayFor(model => model.Address)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.ContactNo)</dt>
+        <dd>@Html.DisplayFor(model => model.ContactNo)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Email)</dt>
+        <dd>@Html.DisplayFor(model => model.Email)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.Password)</dt>
+        <dd>@Html.DisplayFor(model => model.Password)</dd>
+    </dl>
+
+    <div style="text-align: center;">
+        <a asp-action="Edit" asp-controller="User" asp-route-id="@Model.UserId" class="btn-primary">Edit Profile</a>
+        <a asp-action="Delete" asp-controller="User" asp-route-id="@Model.UserId" class="btn-primary">Delete Profile</a>
+    </div>
+</div>

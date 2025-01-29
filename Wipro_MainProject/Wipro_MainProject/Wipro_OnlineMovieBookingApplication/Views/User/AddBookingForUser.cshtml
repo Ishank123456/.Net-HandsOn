@@ -1,0 +1,180 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.AddBookingViewModel
+
+@{
+    ViewData["Title"] = "Book Your Tickets";
+}
+
+<style>
+    body {
+        background: url('https://i.ibb.co/HhCBnQW/book-ticket.jpg') no-repeat center center fixed;
+        background-size: cover; /* Ensures the image covers the whole background */
+        background-color: #f0f4f8; /* Fallback color */
+        font-family: 'Arial', sans-serif;
+        margin: 0; /* Removes default margin to ensure full coverage */
+        height: 100vh; /* Makes sure the body takes up the full height of the viewport */
+        overflow: hidden; /* Prevents scrolling if not needed */
+    }
+
+    .container {
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 1rem;
+        background: #ffffff; /* White background for the form */
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-title {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    .info-card {
+        background: #e9eff3; /* Light blue background for info card */
+        border-radius: 8px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        position: relative; /* To position the border */
+    }
+
+        .info-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background-color: #007bff; /* Color accent on the left side */
+            border-top-left-radius: 8px;
+            border-bottom-left-radius: 8px;
+        }
+
+    .info-title {
+        font-size: 22px; /* Slightly larger font size */
+        color: #ff5722; /* Bright color for movie name */
+        margin-bottom: 0.5rem;
+        font-weight: bold;
+    }
+
+    .info-item {
+        font-size: 18px; /* Slightly larger font size */
+        color: #007bff; /* Bright color for username */
+        margin-bottom: 0.5rem;
+    }
+
+    .price-item {
+        font-size: 20px; /* Larger font size for price */
+        color: #ff5722; /* Bright color for price */
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        border: 1px solid #ced4da;
+        box-shadow: none;
+        height: 45px;
+    }
+
+        .form-control:focus {
+            border-color: #007bff;
+            box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+            outline: none;
+        }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        color: #ffffff;
+        padding: 12px 24px;
+        border-radius: 25px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-align: center;
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border: none;
+        color: #ffffff;
+        padding: 12px 24px;
+        border-radius: 25px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-align: center;
+        display: inline-block;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+
+    .animated-button {
+        animation: pulse 1.5s infinite;
+    }
+</style>
+
+<div class="container">
+    <div class="form-title">@ViewData["Title"]</div>
+    <div class="info-card">
+        <p class="info-title">@ViewBag.MovieOptions[0].MovieName</p>
+        <p class="info-item">User Email: @ViewBag.UserOptions[0].Email</p>
+        <p class="price-item">Ticket Price: ₹@ViewBag.MovieOptions[0].MoviePrice</p>
+    </div>
+    <form asp-action="AddBookingForUser" method="post">
+        @Html.AntiForgeryToken()
+
+        <input type="hidden" name="userId" value="@ViewBag.UserOptions[0].UserId" />
+        <input type="hidden" name="id" value="@ViewBag.MovieOptions[0].MovieId" />
+
+        <div class="form-group">
+            <label asp-for="BookingDate" class="control-label">Booking Date</label>
+            <input asp-for="BookingDate" class="form-control" type="date" />
+            <span asp-validation-for="BookingDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NumberOfTickets" class="control-label">Number of Tickets</label>
+            <input asp-for="NumberOfTickets" class="form-control" type="number" min="1" />
+            <span asp-validation-for="NumberOfTickets" class="text-danger"></span>
+        </div>
+
+        @* <div class="form-group">
+        <label asp-for="TotalPrice" class="control-label">Total Price</label>
+        <input asp-for="TotalPrice" class="form-control" type="number" step="0.01" min="0" />
+        <span asp-validation-for="TotalPrice" class="text-danger"></span>
+        </div> *@
+
+        <div class="form-group">
+            <label asp-for="ShowTime" class="control-label">Show Time</label>
+            <select asp-for="ShowTime" class="form-control">
+                <option value="">-- Select ShowTime --</option>
+                <option value="9:00AM--12:00PM">9:00AM--12:00PM</option>
+                <option value="1:00PM--4:00PM">1:00PM--4:00PM</option>
+                <option value="5:00PM--8:00PM">5:00PM--8:00PM</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary animated-button">Book</button>
+        <a asp-action="MovieDetails" asp-controller="User" asp-route-id="@ViewBag.UserOptions[0].UserId" class="btn btn-secondary animated-button">Back to List</a>
+    </form>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

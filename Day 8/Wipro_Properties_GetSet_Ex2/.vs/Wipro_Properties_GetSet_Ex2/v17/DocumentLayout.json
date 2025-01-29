@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_Properties_GetSet_Ex2\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 8\\Wipro_Properties_GetSet_Ex2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|C:\\Users\\hp\\source\\repos\\Wipro_Properties_GetSet_Ex2\\wipro_properties_getset_ex2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|solutionrelative:wipro_properties_getset_ex2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 8\\Wipro_Properties_GetSet_Ex2\\wipro_properties_getset_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|solutionrelative:wipro_properties_getset_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|c:\\users\\hp\\source\\repos\\wipro_properties_getset_ex2\\wipro_properties_getset_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|solutionrelative:wipro_properties_getset_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|c:\\users\\pc\\documents\\.net class hands on\\day 8\\wipro_properties_getset_ex2\\wipro_properties_getset_ex2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E495830C-D6E8-4C1C-B543-33DF8086632C}|Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2.csproj|solutionrelative:wipro_properties_getset_ex2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 8\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Customer.cs",
               "RelativeDocumentMoniker": "Wipro_Properties_GetSet_Ex2\\Customer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Customer.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 8\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Customer.cs",
               "RelativeToolTip": "Wipro_Properties_GetSet_Ex2\\Customer.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T04:06:25.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 8\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Program.cs",
               "RelativeDocumentMoniker": "Wipro_Properties_GetSet_Ex2\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 8\\Wipro_Properties_GetSet_Ex2\\Wipro_Properties_GetSet_Ex2\\Program.cs",
               "RelativeToolTip": "Wipro_Properties_GetSet_Ex2\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowCYAAABvAAAA",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T04:06:11.856Z",
               "EditorCaption": ""

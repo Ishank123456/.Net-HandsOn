@@ -1,0 +1,138 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.EditMovieViewModel
+
+@{
+    ViewData["Title"] = "Edit Movie";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Arial', sans-serif;
+        }
+
+        .container {
+            margin-top: 60px;
+        }
+
+        .form-container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+
+            .form-container h2 {
+                margin-bottom: 30px;
+                color: #343a40;
+            }
+
+        .btn-primary {
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+        }
+
+            .btn-primary:hover {
+                background-color: #0b5ed7;
+                border-color: #0a58ca;
+            }
+
+        .btn-secondary {
+            background-color: #6c757d;
+            border-color: #6c757d;
+        }
+
+            .btn-secondary:hover {
+                background-color: #5a6268;
+                border-color: #545b62;
+            }
+
+        .form-group label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <h2 class="text-center">@ViewData["Title"]</h2>
+            <form asp-action="EditMovies" method="post">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="MovieId" />
+                <div class="mb-3">
+                    <label asp-for="MovieName" class="form-label"></label>
+                    <input asp-for="MovieName" class="form-control" placeholder="Enter movie name" />
+                    <div asp-validation-for="MovieName" class="text-danger"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Synopsis" class="form-label"></label>
+                    <textarea asp-for="Synopsis" class="form-control" rows="4" placeholder="Enter movie synopsis"></textarea>
+                    <div asp-validation-for="Synopsis" class="text-danger"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Director" class="form-label"></label>
+                    <input asp-for="Director" class="form-control" placeholder="Enter director name" />
+                    <div asp-validation-for="Director" class="text-danger"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Duration" class="form-label"></label>
+                    <input asp-for="Duration" type="number" class="form-control" placeholder="Enter duration in minutes" />
+                    <div asp-validation-for="Duration" class="text-danger"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Rating" class="form-label"></label>
+                    <input asp-for="Rating" type="number" step="0.1" min="0" max="10" class="form-control" placeholder="Enter movie rating (0-10)" />
+                    <div asp-validation-for="Rating" class="text-danger"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="MovieImage" class="form-label"></label>
+                    <input asp-for="MovieImage" type="text" class="form-control" placeholder="Enter URL for the movie poster" />
+                    <div asp-validation-for="MovieImage" class="text-danger"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="MoviePrice" class="form-label"></label>
+                    <input asp-for="MoviePrice" type="text" class="form-control" placeholder="Enter movie price" />
+                    <div asp-validation-for="MoviePrice" class="text-danger"></div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Genre" class="form-label"></label>
+                    <select asp-for="Genre" class="form-select">
+                        <option value="">-- Select Genre --</option>
+                        <option value="Action">Action</option>
+                        <option value="Comedy">Comedy</option>
+                        <option value="Drama">Drama</option>
+                        <option value="Horror">Horror</option>
+                        <option value="Sci-Fi">Sci-Fi</option>
+                    </select>
+                    <div asp-validation-for="Genre" class="text-danger"></div>
+                </div>
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                </div>
+            </form>
+            <div class="text-center mt-4">
+                <a href="@Url.Action("AdminDashboard", "Admin")" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Back to List
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,157 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.PaymentDetailsViewModel
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Body styling */
+        body {
+            background-color: #e9ecef;
+            padding: 40px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        /* Container card styling */
+        .card {
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+            padding: 30px;
+            margin-top: 50px;
+        }
+
+        /* Card header styling */
+        .card-header {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            font-size: 26px;
+            font-weight: bold;
+            padding: 20px;
+            border-radius: 10px 10px 0 0;
+        }
+
+        /* Detail labels */
+        .detail-label {
+            font-weight: bold;
+            font-size: 20px;
+            color: #495057;
+        }
+
+        /* Detail values */
+        .detail-value {
+            font-size: 20px;
+            color: #212529;
+            margin-left: 10px;
+        }
+
+        /* Status styling */
+        .status {
+            color: #28a745;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        .status-pending {
+            color: #ffc107;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        /* Button styling */
+        .btn-back {
+            background-color: #007bff;
+            color: white;
+            font-size: 18px;
+            padding: 12px 25px;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            margin-top: 20px;
+            display: inline-block;
+        }
+
+            .btn-back:hover {
+                background-color: #0056b3;
+                text-decoration: none;
+            }
+
+        /* Card body styling */
+        .card-body div {
+            margin-bottom: 25px;
+        }
+
+        hr {
+            border: 1px solid #dee2e6;
+            margin: 30px 0;
+        }
+
+        /* Center the card and make it responsive */
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            Payment Details
+        </div>
+        <div class="card-body">
+            <div>
+                <span class="detail-label">Transaction ID:</span>
+                <span class="detail-value">@Model.TransactionId</span>
+            </div>
+              <div>
+                <span class="detail-label">UserName:</span>
+                <span class="detail-value">@Model.UserName</span>
+            </div>
+            <div>
+                <span class="detail-label">Email:</span>
+                <span class="detail-value">@Model.Email</span>
+            </div>
+            <div>
+                <span class="detail-label">Movie Name:</span>
+                <span class="detail-value">@Model.MovieName</span>
+            </div>
+            <div>
+                <span class="detail-label">Booking Date:</span>
+                <span class="detail-value">@Model.PaymentDate.ToString("dddd, dd MMMM yyyy hh:mm tt")</span>
+            </div>
+            <div>
+                <span class="detail-label">Total Amount:</span>
+                <span class="detail-value">@Model.Amount.ToString("C", new System.Globalization.CultureInfo("en-IN"))</span>
+            </div>
+            <div>
+                <span class="detail-label">Payment Status:</span>
+                <span class="detail-value">
+                    @if (Model.IsConfirmed)
+                    {
+                        <span class="status">Completed</span>
+                    }
+                    else
+                    {
+                        <span class="status-pending">Pending</span>
+                    }
+                </span>
+            </div>
+
+            <hr />
+
+            <!-- Back to payment details button -->
+            <div style="text-align: center;">
+                @if (User.IsInRole("Admin"))
+                {
+                    <a href="@Url.Action("GetAllPaymentDetails", "PaymentDetails")" class="btn-back">Back to Payment Details List</a>
+                }
+                else
+                {
+                    <a href="@Url.Action("GetAllPaymentDetailsForUser", "PaymentDetails", new { userId = Model.UserId })" class="btn-back">Back to Payment Details List</a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>

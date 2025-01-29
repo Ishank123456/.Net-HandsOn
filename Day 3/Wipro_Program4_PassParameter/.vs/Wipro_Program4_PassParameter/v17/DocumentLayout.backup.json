@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB9B6BB-8501-499B-B0F4-D5D25526111A}|Wipro_Program4_PassParameter\\Wipro_Program4_PassParameter.csproj|c:\\users\\pc\\documents\\.net class hands on\\day 3\\wipro_program4_passparameter\\wipro_program4_passparameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB9B6BB-8501-499B-B0F4-D5D25526111A}|Wipro_Program4_PassParameter\\Wipro_Program4_PassParameter.csproj|solutionrelative:wipro_program4_passparameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B336DD-536F-437B-93B4-C5C4D9DCA5BE}|Wipro_Program4_dll\\Wipro_Program4_dll.csproj|c:\\users\\pc\\documents\\.net class hands on\\day 3\\wipro_program4_passparameter\\wipro_program4_dll\\arit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B336DD-536F-437B-93B4-C5C4D9DCA5BE}|Wipro_Program4_dll\\Wipro_Program4_dll.csproj|solutionrelative:wipro_program4_dll\\arit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C2E73F-6563-47D5-A213-3FF3438A9705}|Wipro_Program4_dll_2\\Wipro_Program4_dll_2.csproj|C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\wipro_program4_dll_2\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C2E73F-6563-47D5-A213-3FF3438A9705}|Wipro_Program4_dll_2\\Wipro_Program4_dll_2.csproj|solutionrelative:wipro_program4_dll_2\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B336DD-536F-437B-93B4-C5C4D9DCA5BE}|Wipro_Program4_dll\\Wipro_Program4_dll.csproj|C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\wipro_program4_dll\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B336DD-536F-437B-93B4-C5C4D9DCA5BE}|Wipro_Program4_dll\\Wipro_Program4_dll.csproj|solutionrelative:wipro_program4_dll\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_dll\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "Wipro_Program4_dll\\Arithmetic.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_dll\\Arithmetic.cs",
+              "RelativeToolTip": "Wipro_Program4_dll\\Arithmetic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:07:53.346Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arit.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_dll\\Arit.cs",
+              "RelativeDocumentMoniker": "Wipro_Program4_dll\\Arit.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_dll\\Arit.cs",
+              "RelativeToolTip": "Wipro_Program4_dll\\Arit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:13:00.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_PassParameter\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Program4_PassParameter\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_PassParameter\\Program.cs",
+              "RelativeToolTip": "Wipro_Program4_PassParameter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:07:29.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_dll_2\\Area.cs",
+              "RelativeDocumentMoniker": "Wipro_Program4_dll_2\\Area.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 3\\Wipro_Program4_PassParameter\\Wipro_Program4_dll_2\\Area.cs",
+              "RelativeToolTip": "Wipro_Program4_dll_2\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:35:04.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<!-- Include Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<style>
+
+    body {
+        background: url('https://i.ibb.co/VggTHN0/cinema.jpg') no-repeat center center fixed; /* Background image */
+        background-size: cover; /* Cover the entire page */
+        font-family: 'Verdana', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-between; /* Separate left and right sections */
+        align-items: center;
+        padding: 10px 20px;
+        background-color: #333; /* Dark background color */
+    }
+
+    .navbar-left {
+        display: flex;
+        flex-grow: 1; /* Forces left section to stretch and push right section away */
+    }
+
+    .navbar-right {
+        display: flex;
+    }
+
+        .navbar-left a, .navbar-right a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            font-size: 1.1rem;
+        }
+
+    .navbar-left a {
+        margin-right: 15px; /* Space between the left links */
+    }
+
+    .navbar-right a {
+        margin-left: 15px; /* Space between the right links */
+    }
+
+    .navbar a:hover {
+        background-color: #555; /* Background color on hover */
+        border-radius: 5px;
+    }
+
+
+
+
+    .content {
+        padding-top: 6rem;
+    }
+
+    .jumbotron {
+        margin-top: 2rem;
+        text-align: center;
+        padding: 2rem;
+        background-color: rgba(255, 243, 224, 0.9); /* Light peach background with some transparency */
+    }
+
+        .jumbotron h1 {
+            font-size: 3rem; /* Larger and more welcoming */
+            color: #ff6f61;
+        }
+
+        .jumbotron p {
+            font-size: 1.2rem;
+            color: #555;
+        }
+
+        .jumbotron a {
+            padding: 15px 30px;
+            border-radius: 25px; /* Rounded buttons */
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        color: white;
+    }
+
+    /* Recommended Movies Section */
+    .recommended-section, .upcoming-section {
+        padding: 20px;
+        background-color: #f4f4f4;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        margin-bottom: 40px;
+    }
+
+        .recommended-section h2, .upcoming-section h2 {
+            text-align: center;
+            color: darkred;
+            margin-bottom: 20px;
+        }
+
+    .movie-list, .upcoming-list {
+        display: flex;
+        overflow-x: hidden; /* Hide scrollbar by default */
+        transition: all 0.3s ease;
+    }
+
+        .movie-list:hover, .upcoming-list:hover {
+            overflow-x: auto; /* Enable scrolling on hover */
+        }
+
+        /* Hide scrollbar for Chrome, Safari, and Opera */
+        .movie-list::-webkit-scrollbar, .upcoming-list::-webkit-scrollbar {
+            display: none;
+        }
+
+    /* Hide scrollbar for Firefox */
+    .movie-list {
+        scrollbar-width: none;
+    }
+
+
+    .upcoming-list {
+        scrollbar-width: none;
+    }
+
+    .movie-item, .upcoming-item {
+        flex: 0 0 auto;
+        margin: 10px;
+        text-align: center;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        padding: 10px;
+        width: 180px; /* Adjust width of movie items */
+        transition: transform 0.3s ease-in-out;
+    }
+
+        .movie-item:hover, .upcoming-item:hover {
+            transform: scale(1.05); /* Add hover effect */
+        }
+
+        .movie-item img, .upcoming-item img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .movie-item h3, .upcoming-item h3 {
+            font-size: 18px;
+            margin: 10px 0;
+            color: #333;
+        }
+
+        .movie-item p, .upcoming-item p {
+            font-size: 14px;
+            color: #777;
+        }
+
+    /* Carousel Image Size */
+    .container {
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    .carousel {
+        position: relative;
+        width: 100%;
+    
+        overflow: hidden;
+        margin: 2rem auto; /* Center the carousel and add spacing */
+    }
+
+    .carousel-track {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+    }
+
+        .carousel-track img {
+            width: 100%; /* Make the image fit the carousel width */
+            height: auto; /* Maintain the image aspect ratio */
+            max-height: 300px; /* Set a max height to control the size */
+        }
+
+    .carousel-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        border: none;
+        cursor: pointer;
+        padding: 10px;
+    }
+
+    .prev {
+        left: 10px;
+    }
+
+    .next {
+        right: 10px;
+    }
+
+    .footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        position: relative; /* If you want it to move with content */
+        bottom: 0;
+        width: 100%;
+    }
+
+    body {
+        padding-bottom: 50px; /* Ensure the content doesn't get covered by the footer */
+    }
+
+
+</style>
+
+<div class="navbar">
+    <div class="navbar-left">
+        <a href="@Url.Action("Index", "Home")">Movies</a>
+        <a href="@Url.Action("Events", "Home")">Upcoming Movies</a>
+        <a href="@Url.Action("Plays", "Home")">Recommended Movies</a>
+    </div>
+
+    <div class="navbar-right">
+        <a href="@Url.Action("LoginCategory", "Login")">Log in</a>
+        <a href="@Url.Action("Register", "Register")">Sign up</a>
+    </div>
+</div>
+
+<div class="container">
+    <!-- Carousel for Featured Movies -->
+    <div class="content">
+        <div class="carousel">
+            <div class="carousel-track">
+                <img src="https://i.ibb.co/5xXhf7N/URI.webp" alt="Featured Movie 1">
+                <img src="https://i.ibb.co/3hvRRKR/HD-INCEP.jpg" alt="Featured Movie 2">
+                <img src="https://i.ibb.co/F7RcmxF/TENET.jpg" alt="Featured Movie 3">
+                <img src="https://i.ibb.co/59T5xQj/conjuring.jpg" alt="Featured Movie 4">
+                <img src="https://i.ibb.co/Jj7xSJx/HD-KALKI.jpg" alt="Featured Movie 5">
+                <img src="https://i.ibb.co/pPTmTBL/exorcist-iamge.jpg" alt="Featured Movie 6">
+                <img src="https://i.ibb.co/5RxBf13/avatar-image.webp" alt="Featured Movie 7">
+                <img src="https://i.ibb.co/PwxcZ2n/nun.jpg" alt="Featured Movie 8">
+            </div>
+            <button class="carousel-btn prev">&lt;</button>
+            <button class="carousel-btn next">&gt;</button>
+        </div>
+    </div>
+
+    <div class="jumbotron">
+        <h1>Welcome to MovieBooking!</h1>
+        <p>Discover the ultimate destination for booking your favorite movies online.</p>
+        <p>Join now to access exclusive offers, seamless booking, and personalized movie recommendations tailored just for you.</p>
+        <p>Already have an account? Log in to manage your bookings and more!</p>
+
+        <a href="@Url.Action("LoginCategory", "Login")" class="btn btn-primary btn-lg">Login</a>
+        <a href="@Url.Action("Register", "Register")" class="btn btn-success btn-lg">Sign Up</a>
+    </div>
+
+    <!-- Recommended Movies Section -->
+    <div class="recommended-section">
+        <h2>Recommended Movies</h2>
+        <div class="movie-list">
+            <div class="movie-item">
+                <img src="https://i.ibb.co/5TMyjVg/super-30.jpg" alt="Super 30">
+                <h3>Super 30</h3>
+                <p>Action/Adventure</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/YTqK51T/URI.jpg" alt="URI">
+                <h3>URI</h3>
+                <p>Drama/Thriller</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/KWXL7Sn/Lagaaan.jpg" alt="Lagaan">
+                <h3>Lagaan</h3>
+                <p>Drama</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/yFjVftd/Chak-De-India.jpg" alt="Chak De India">
+                <h3>Chak De India</h3>
+                <p>Motivational</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/kMBpDjN/Bhag-milkha.jpg" alt="Bhaag Milkha Bhaag">
+                <h3>Bhaag Milkha Bhaag</h3>
+                <p>Drama</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/r4C4z1J/Shaadi-me-jarur-aana.jpg" alt="Shaadi Mein Zaroor Aana">
+                <h3>Shaadi Mein Zaroor Aana</h3>
+                <p>Fiction/Drama</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/T4vMvfp/AVENGER-ENDGAME.jpg" alt="Avengers: Endgame">
+                <h3>Avengers: Endgame</h3>
+                <p>Action/Sci-Fi</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/Z8mShSK/INCEPTION.jpg" alt="Inception">
+                <h3>Inception</h3>
+                <p>Sci-Fi/Thriller</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Upcoming Movies Section -->
+    <div class="upcoming-section">
+        <h2>Upcoming Movies</h2>
+        <div class="upcoming-list">
+            <div class="upcoming-item">
+                <img src="https://i.ibb.co/T4vMvfp/AVENGER-ENDGAME.jpg" alt="Avengers: Endgame">
+                <h3>Avengers: Endgame</h3>
+                <p>Action/Sci-Fi</p>
+            </div>
+            <div class="upcoming-item">
+                <img src="https://i.ibb.co/Z8mShSK/INCEPTION.jpg" alt="Inception">
+                <h3>Inception</h3>
+                <p>Sci-Fi/Thriller</p>
+            </div>
+            <div class="upcoming-item">
+                <img src="https://i.ibb.co/9G2PF8K/THE-DARK-NIGHT.jpg" alt="The Dark Knight">
+                <h3>The Dark Knight</h3>
+                <p>Action/Thriller</p>
+            </div>
+            <div class="upcoming-item">
+                <img src="https://i.ibb.co/hXSyH4V/INTERSTELLAR.jpg" alt="Interstellar">
+                <h3>Interstellar</h3>
+                <p>Sci-Fi/Adventure</p>
+            </div>
+            <div class="upcoming-item">
+                <img src="https://i.ibb.co/YTqK51T/URI.jpg" alt="URI">
+                <h3>URI</h3>
+                <p>Drama/Thriller</p>
+            </div>
+            <div class="upcoming-item">
+                <img src="https://i.ibb.co/kMBpDjN/Bhag-milkha.jpg" alt="Bhaag Milkha Bhaag">
+                <h3>Bhaag Milkha Bhaag</h3>
+                <p>Drama</p>
+            </div>
+        </div>
+    </div>
+
+
+@section Scripts {
+    <script>
+        const track = document.querySelector('.carousel-track');
+        const slides = Array.from(track.children);
+        const nextButton = document.querySelector('.next');
+        const prevButton = document.querySelector('.prev');
+        const slideWidth = slides[0].getBoundingClientRect().width;
+        let currentSlideIndex = 0;
+
+        // Arrange slides next to one another
+        slides.forEach((slide, index) => {
+            slide.style.left = slideWidth * index + 'px';
+        });
+
+        // Move to slide by index
+        const moveToSlide = (track, currentSlideIndex) => {
+            track.style.transform = 'translateX(-' + slideWidth * currentSlideIndex + 'px)';
+        };
+
+        // Move to next slide
+        const nextSlide = () => {
+            currentSlideIndex = (currentSlideIndex + 1) % slides.length;
+            moveToSlide(track, currentSlideIndex);
+        };
+
+        // Move to previous slide
+        const prevSlide = () => {
+            currentSlideIndex = (currentSlideIndex - 1 + slides.length) % slides.length;
+            moveToSlide(track, currentSlideIndex);
+        };
+
+        // Auto slide every 2 seconds
+        let autoSlide = setInterval(nextSlide, 2000);
+
+        // Add event listeners for buttons
+        nextButton.addEventListener('click', () => {
+            clearInterval(autoSlide);
+            nextSlide();
+            autoSlide = setInterval(nextSlide, 2000); // Reset interval after manual navigation
+        });
+
+        prevButton.addEventListener('click', () => {
+            clearInterval(autoSlide);
+            prevSlide();
+            autoSlide = setInterval(nextSlide, 2000); // Reset interval after manual navigation
+        });
+    </script>
+}
+<!-- Include Bootstrap JS and jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>

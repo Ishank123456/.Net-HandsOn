@@ -1,0 +1,376 @@
+[
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.AdminAPIController",
+    "Method": "AddUser",
+    "RelativePath": "api/AdminAPI/AddUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTO.UserDTOCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.AdminAPIController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/AdminAPI/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.AdminAPIController",
+    "Method": "EditUser",
+    "RelativePath": "api/AdminAPI/EditUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTO.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.AdminAPIController",
+    "Method": "GetListOfUsers",
+    "RelativePath": "api/AdminAPI/ListUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.AdminAPIController",
+    "Method": "GetSingleUser",
+    "RelativePath": "api/AdminAPI/SingleUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.BookingAPIController",
+    "Method": "AddBooking",
+    "RelativePath": "api/BookingAPI/AddBooking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookingModel",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTOs.BookingDTOCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.BookingAPIController",
+    "Method": "DeleteBooking",
+    "RelativePath": "api/BookingAPI/DeleteBooking",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookingId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.BookingAPIController",
+    "Method": "EditBooking",
+    "RelativePath": "api/BookingAPI/EditBooking",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookingModel",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTOs.BookingDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.BookingAPIController",
+    "Method": "GetAllBookingsForUser",
+    "RelativePath": "api/BookingAPI/GetAllBookingForUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.BookingAPIController",
+    "Method": "GetAllBookings",
+    "RelativePath": "api/BookingAPI/GetAllBookings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.BookingAPIController",
+    "Method": "GetBookingById",
+    "RelativePath": "api/BookingAPI/GetBookingById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookingId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.LoginAPIController",
+    "Method": "CheckListOfUsers",
+    "RelativePath": "api/LoginAPI/CheckListOfUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.MovieAPIController",
+    "Method": "AddMovies",
+    "RelativePath": "api/MovieAPI/AddMovies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTOs.MovieDTOCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.MovieAPIController",
+    "Method": "DeleteMovie",
+    "RelativePath": "api/MovieAPI/DeleteMovie",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.MovieAPIController",
+    "Method": "EditMovies",
+    "RelativePath": "api/MovieAPI/EditMovies",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTOs.MovieDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.MovieAPIController",
+    "Method": "GetAllMovies",
+    "RelativePath": "api/MovieAPI/GetAllMovies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.MovieAPIController",
+    "Method": "GetMovieById",
+    "RelativePath": "api/MovieAPI/GetMovieById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.PaymentDetailsAPIController",
+    "Method": "GetAllPaymentDetailsForUser",
+    "RelativePath": "api/PaymentDetailsAPI/GetAllPaymentDetailsForUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.PaymentDetailsAPIController",
+    "Method": "GetAllPaymentDetails",
+    "RelativePath": "api/PaymentDetailsAPI/GetAllPayments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Wipro_OnlineMovieBookingApplication.DTOs.PaymentDetailsDTO, Wipro_OnlineMovieBookingApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.PaymentDetailsAPIController",
+    "Method": "GetPaymentDetailsById",
+    "RelativePath": "api/PaymentDetailsAPI/GetPaymentDetailsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Wipro_OnlineMovieBookingApplication.DTOs.PaymentDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.RegisterAPIController",
+    "Method": "UserRegistration",
+    "RelativePath": "api/RegisterAPI/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTO.UserDTOCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.UserAPIController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/UserAPI/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.UserAPIController",
+    "Method": "EditUser",
+    "RelativePath": "api/UserAPI/EditUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Wipro_OnlineMovieBookingApplication.DTO.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wipro_OnlineMovieBookingApplication.APIControllers.UserAPIController",
+    "Method": "GetSingleUser",
+    "RelativePath": "api/UserAPI/SingleUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

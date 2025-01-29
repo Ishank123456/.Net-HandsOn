@@ -1,0 +1,133 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.UserLoginViewModel;
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Portal - Login</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding-top: 80px; /* Space for the fixed navbar */
+            height: 100vh;
+            background: url('https://i.ibb.co/svXzWjh/USER-LOGIN.jpg')no-repeat center center fixed,linear-gradient(to right, #6a11cb, #2575fc);
+            background-size: cover; /* Ensure the image covers the entire background */
+            overflow: hidden;
+        }
+
+
+        .center-login {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: calc(100vh - 80px); /* Adjust height, minus navbar height */
+            padding: 20px;
+        }
+
+        .login-container {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+            animation: fadeIn 1s ease-in-out;
+            width: 100%;
+            max-width: 360px;
+        }
+
+        .login-container h2 {
+            color: #333;
+            text-align: center;
+            font-size: 26px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .form-control {
+            height: 50px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            padding: 12px;
+            margin-bottom: 20px;
+            transition: border-color 0.3s ease;
+        }
+
+        .form-control:focus {
+            border-color: #2575fc;
+            box-shadow: 0 0 8px rgba(37, 117, 252, 0.3);
+            outline: none;
+        }
+
+        .btn-success {
+            background-color: #2575fc;
+            border: none;
+            color: white;
+            padding: 12px 20px;
+            font-size: 16px;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-success:hover {
+            background-color: #1c3aa9;
+        }
+
+        .text-center h7 {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .text-center a {
+            color: #2575fc;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .text-center a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <section class="center-login">
+        <!-- Stylish Login Form Container -->
+        <div class="login-container">
+            <h2>User Portal - Login</h2>
+            <form asp-action="UserLogin">
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input type="text" asp-for="Email" placeholder="Enter your email" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input type="password" asp-for="Password" placeholder="Enter your password" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group text-center">
+                    <input type="submit" class="btn btn-success mb-2" value="Sign In" />
+                </div>
+            </form>
+
+            <div class="text-center">
+                <h7>Don't have an account?</h7>
+                <a href="@Url.Action("Register", "Register")">Sign up</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

@@ -4,3 +4,9 @@ C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\D
 C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\Debug\Wipro_Program4_dll_2.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\Debug\Wipro_Program4_dll_2.dll
 C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\Debug\Wipro_Program4_dll_2.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\bin\Debug\Wipro_Program4_dll_2.dll
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\bin\Debug\Wipro_Program4_dll_2.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\Debug\Wipro_Program4_dll_2.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\Debug\Wipro_Program4_dll_2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\Debug\Wipro_Program4_dll_2.dll
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_dll_2\obj\Debug\Wipro_Program4_dll_2.pdb

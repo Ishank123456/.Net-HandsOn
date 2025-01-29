@@ -1,0 +1,129 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.BookingViewModel
+@using System.Globalization
+
+@{
+    ViewData["Title"] = "Booking Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f4f4f9;
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+        }
+
+        .container {
+            margin-top: 30px;
+            max-width: 600px;
+        }
+
+        .card {
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            border: none;
+            background-color: #ffffff;
+        }
+
+        .card-header {
+            background-color: #3498db;
+            color: white;
+            font-size: 1.5rem;
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .card-body {
+            padding: 30px;
+        }
+
+        .detail-label {
+            display: block;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .detail-value {
+            display: block;
+            font-size: 1.2rem;
+            color: #34495e;
+            margin-bottom: 20px;
+        }
+
+        hr {
+            border: 1px solid #ecf0f1;
+        }
+
+        .btn-back {
+            background-color: #1abc9c;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        .btn-back:hover {
+            background-color: #16a085;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            Booking Details
+        </div>
+        <div class="card-body">
+            <div>
+                    <span class="detail-label">Email:</span>
+                    <span class="detail-value">@Model.Email</span>
+            </div>
+            <div>
+                <span class="detail-label">Movie Name:</span>
+                <span class="detail-value">@Model.MovieName</span>
+            </div>
+            <div>
+                <span class="detail-label">Booking Date:</span>
+                <span class="detail-value">@Model.BookingDate.ToShortDateString()</span>
+            </div>
+            <div>
+                <span class="detail-label">Show Time:</span>
+                <span class="detail-value">@Model.ShowTime</span>
+            </div>
+            <div>
+                <span class="detail-label">Number of Tickets:</span>
+                <span class="detail-value">@Model.NumberOfTickets</span>
+            </div>
+            @* Uncomment this if you want to display prices
+            @*<div>
+                <span class="detail-label">Movie Price:</span>
+                <span class="detail-value">@Model.MoviePrice.ToString("C", new CultureInfo("en-IN"))</span>
+            </div>
+            <div>
+                <span class="detail-label">Total Price:</span>
+                <span class="detail-value">@Model.TotalPrice.ToString("C", new CultureInfo("en-IN"))</span>
+            </div>*@
+            <hr />
+            <div style="text-align: center;">
+                <a href="@Url.Action("BookingDetails", "Booking", new { userId = Model.UserId })" class="btn-back">Back to Bookings List</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

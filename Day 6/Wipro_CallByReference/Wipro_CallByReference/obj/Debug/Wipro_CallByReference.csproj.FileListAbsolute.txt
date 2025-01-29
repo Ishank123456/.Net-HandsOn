@@ -5,3 +5,10 @@ C:\Users\hp\source\repos\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\W
 C:\Users\hp\source\repos\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\Wipro_CallByReference.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\Wipro_CallByReference.exe
 C:\Users\hp\source\repos\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\Wipro_CallByReference.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_CallByReference\Wipro_CallByReference\bin\Debug\Wipro_CallByReference.exe.config
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_CallByReference\Wipro_CallByReference\bin\Debug\Wipro_CallByReference.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_CallByReference\Wipro_CallByReference\bin\Debug\Wipro_CallByReference.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\Wipro_CallByReference.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\Wipro_CallByReference.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\Wipro_CallByReference.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_CallByReference\Wipro_CallByReference\obj\Debug\Wipro_CallByReference.pdb

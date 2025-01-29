@@ -1,0 +1,112 @@
+﻿@using Wipro_OnlineMovieBookingApplication.ViewModels
+@model UserViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h2>User Details</h2>
+        </div>
+        <div class="card-body">
+            <h3 class="text-center mb-4">@Html.DisplayFor(model => model.Name)</h3>
+            <hr />
+
+            <dl class="row mb-3">
+                <dt class="col-sm-3 font-weight-bold">User ID</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.UserId)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">Username</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.UserName)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">Full Name</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">Address</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Address)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">Contact Number</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ContactNo)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">Email</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">Password</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Password)</dd>
+            </dl>
+        </div>
+        <div class="card-footer d-flex justify-content-between">
+            <div>
+                @Html.ActionLink("Edit Profile", "Edit", new { id = Model.UserId }, new { @class = "btn btn-warning mr-2" })
+                <a asp-action="Delete" asp-controller="Admin" asp-route-id="@Model.UserId" class="btn btn-danger">Delete Profile</a>
+            </div>
+            <div>
+                <a asp-action="UserDetails" asp-controller="Admin" class="btn btn-secondary">Back to User List</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .container {
+        max-width: 800px;
+    }
+
+    .card {
+        border-radius: 12px;
+        background-color: #f9f9f9;
+    }
+
+    .card-header {
+        border-radius: 12px 12px 0 0;
+        padding: 20px;
+        font-size: 1.5rem;
+    }
+
+    dl.row {
+        font-size: 1.1rem;
+        margin-bottom: 20px;
+    }
+
+    dt {
+        color: #34495e;
+    }
+
+    dd {
+        color: #555;
+    }
+
+    .btn {
+        border-radius: 8px;
+        padding: 10px 20px;
+    }
+
+    .btn-warning {
+        background-color: #f39c12;
+        border: none;
+    }
+
+    .btn-warning:hover {
+        background-color: #e67e22;
+    }
+
+    .btn-danger {
+        background-color: #e74c3c;
+        border: none;
+    }
+
+    .btn-danger:hover {
+        background-color: #c0392b;
+    }
+
+    .btn-secondary {
+        background-color: #95a5a6;
+        border: none;
+    }
+
+    .btn-secondary:hover {
+        background-color: #7f8c8d;
+    }
+</style>

@@ -1,0 +1,87 @@
+﻿@model Domain.Models.User
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Booking Confirmation</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #2c3e50;
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #ecf0f1;
+        }
+
+        .container {
+            max-width: 400px;
+            background-color: #34495e;
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        h2 {
+            color: #1abc9c;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.1rem;
+            margin-bottom: 25px;
+        }
+
+        .btn {
+            display: inline-block;
+            width: 100%;
+            margin: 10px 0;
+            padding: 10px;
+            border: none;
+            border-radius: 30px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .btn-user {
+            background-color: #3498db;
+            color: white;
+        }
+
+            .btn-user:hover {
+                background-color: #2980b9;
+                transform: translateY(-2px);
+            }
+
+        .btn-admin {
+            background-color: #e74c3c;
+            color: white;
+        }
+
+            .btn-admin:hover {
+                background-color: #c0392b;
+                transform: translateY(-2px);
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Booking Confirmed!</h2>
+        <p>Your booking has been successfully processed. We appreciate your trust in us!</p>
+
+
+
+        <a href="@Url.Action("UserDashboard", "User",new{id=Model.UserId})" class="btn btn-admin">User Dashboard</a>
+
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

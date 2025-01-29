@@ -1,0 +1,115 @@
+﻿@model EditUserViewModel
+@using Wipro_OnlineMovieBookingApplication.ViewModels
+
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h2>Edit User</h2>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="UserId" />
+
+                <div class="form-group">
+                    <label asp-for="FirstName" class="font-weight-bold"></label>
+                    <input asp-for="FirstName" class="form-control rounded-pill" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="LastName" class="font-weight-bold"></label>
+                    <input asp-for="LastName" class="form-control rounded-pill" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Address" class="font-weight-bold"></label>
+                    <input asp-for="Address" class="form-control rounded-pill" />
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ContactNo" class="font-weight-bold"></label>
+                    <input asp-for="ContactNo" class="form-control rounded-pill" />
+                    <span asp-validation-for="ContactNo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="UserName" class="font-weight-bold"></label>
+                    <input asp-for="UserName" class="form-control rounded-pill" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email" class="font-weight-bold"></label>
+                    <input asp-for="Email" class="form-control rounded-pill" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password" class="font-weight-bold"></label>
+                    <input asp-for="Password" type="password" class="form-control rounded-pill" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group text-center">
+                    <input type="submit" value="Save Changes" class="btn btn-success rounded-pill px-4" />
+                </div>
+            </form>
+        </div>
+        <div class="card-footer">
+            <a asp-action="UserDetails" asp-controller="Admin" class="btn btn-info">Back to User List</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .container {
+        max-width: 600px;
+    }
+
+    .card {
+        border-radius: 12px;
+        background-color: #f9f9f9;
+    }
+
+    .card-header {
+        border-radius: 12px 12px 0 0;
+        padding: 20px;
+        font-size: 1.5rem;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-control {
+        height: 45px;
+        border-radius: 8px;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border: none;
+        padding: 10px 30px;
+        font-size: 1rem;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+        }
+
+    .btn-info {
+        border-radius: 8px;
+        padding: 10px 20px;
+    }
+
+    .alert-danger {
+        display: none;
+    }
+</style>

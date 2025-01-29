@@ -5,3 +5,10 @@ C:\Users\hp\source\repos\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Boxing.cs
 C:\Users\hp\source\repos\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Boxing.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Program5.exe
 C:\Users\hp\source\repos\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Program5.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program5\Wipro_Program5\bin\Debug\Wipro_Program5.exe.config
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program5\Wipro_Program5\bin\Debug\Wipro_Program5.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program5\Wipro_Program5\bin\Debug\Wipro_Program5.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Boxing.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Boxing.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Program5.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program5\Wipro_Program5\obj\Debug\Wipro_Program5.pdb

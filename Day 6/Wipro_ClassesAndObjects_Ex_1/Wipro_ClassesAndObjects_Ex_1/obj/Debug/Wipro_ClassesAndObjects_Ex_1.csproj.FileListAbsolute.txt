@@ -5,3 +5,10 @@ C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex
 C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\obj\Debug\Wipro_ClassesAndObjects_Ex_1.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\obj\Debug\Wipro_ClassesAndObjects_Ex_1.exe
 C:\Users\hp\source\repos\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\obj\Debug\Wipro_ClassesAndObjects_Ex_1.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\bin\Debug\Wipro_ClassesAndObjects_Ex_1.exe.config
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\bin\Debug\Wipro_ClassesAndObjects_Ex_1.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\bin\Debug\Wipro_ClassesAndObjects_Ex_1.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\obj\Debug\Wipro_ClassesAndObjects_Ex_1.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\obj\Debug\Wipro_ClassesAndObjects_Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\obj\Debug\Wipro_ClassesAndObjects_Ex_1.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 6\Wipro_ClassesAndObjects_Ex_1\Wipro_ClassesAndObjects_Ex_1\obj\Debug\Wipro_ClassesAndObjects_Ex_1.pdb

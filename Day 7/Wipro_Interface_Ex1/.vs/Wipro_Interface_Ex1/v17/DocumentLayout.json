@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex1\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex1\\wipro_interface_ex1\\iarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|c:\\users\\pc\\documents\\.net class hands on\\day 7\\wipro_interface_ex1\\wipro_interface_ex1\\iarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|solutionrelative:wipro_interface_ex1\\iarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex1\\wipro_interface_ex1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\wipro_interface_ex1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|solutionrelative:wipro_interface_ex1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|c:\\users\\hp\\source\\repos\\wipro_interface_ex1\\wipro_interface_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\wipro_interface_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92668A24-C804-42E3-9071-96B544F1604D}|Wipro_Interface_Ex1\\Wipro_Interface_Ex1.csproj|solutionrelative:wipro_interface_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Arithmetic.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Arithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Arithmetic.cs",
               "RelativeDocumentMoniker": "Wipro_Interface_Ex1\\Arithmetic.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Arithmetic.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Arithmetic.cs",
               "RelativeToolTip": "Wipro_Interface_Ex1\\Arithmetic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T10:10:49.34Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IArithmetic.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\IArithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\IArithmetic.cs",
               "RelativeDocumentMoniker": "Wipro_Interface_Ex1\\IArithmetic.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\IArithmetic.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\IArithmetic.cs",
               "RelativeToolTip": "Wipro_Interface_Ex1\\IArithmetic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T10:09:33.943Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Program.cs",
               "RelativeDocumentMoniker": "Wipro_Interface_Ex1\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\.net Class Hands on\\Day 7\\Wipro_Interface_Ex1\\Wipro_Interface_Ex1\\Program.cs",
               "RelativeToolTip": "Wipro_Interface_Ex1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T10:02:46.71Z",
               "EditorCaption": ""

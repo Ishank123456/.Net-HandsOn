@@ -1,0 +1,82 @@
+﻿@{
+    ViewBag.Title = "Login Category";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background: url('https://i.ibb.co/HPLDF4X/logincategory.jpg'), linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .login-category {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            max-width: 400px;
+            width: 100%;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        .login-category h2 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            width: 180px;
+            padding: 12px;
+            font-size: 16px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-primary {
+            background-color: #3498db;
+            color: #fff;
+        }
+
+        .btn-primary:hover {
+            background-color: #2980b9;
+        }
+
+        .btn-secondary {
+            background-color: #95a5a6;
+            color: #fff;
+        }
+
+        .btn-secondary:hover {
+            background-color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-category">
+        <h2>Select Login Type</h2>
+        <div class="mb-4">
+            @Html.ActionLink("Login as Admin", "AdminLogin", "Login", null, new { @class = "btn btn-primary" })
+        </div>
+        <div>
+            @Html.ActionLink("Login as User", "UserLogin", "Login", null, new { @class = "btn btn-secondary" })
+        </div>
+    </div>
+</body>
+</html>

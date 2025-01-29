@@ -10,3 +10,15 @@ C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParamet
 C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.pdb
 C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll_2.dll
 C:\Users\hp\source\repos\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll_2.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_PassParameter.exe.config
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_PassParameter.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_PassParameter.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll.dll
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll_2.dll
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\bin\Debug\Wipro_Program4_dll_2.pdb
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Pr.BE37E590.Up2Date
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.exe
+C:\Users\pc\Documents\.net Class Hands on\Day 3\Wipro_Program4_PassParameter\Wipro_Program4_PassParameter\obj\Debug\Wipro_Program4_PassParameter.pdb

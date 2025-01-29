@@ -1,0 +1,186 @@
+﻿@model AddUserViewModel
+@using Wipro_OnlineMovieBookingApplication.ViewModels
+
+@{
+    ViewBag.Title = "Sign Up";
+}
+
+<style>
+    body {
+        background-image: url('https://i.ibb.co/nwHG3Mz/SIGN-UP.jpg'); /* Background image for testing */
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+    }
+
+    .navbar {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: #333;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        z-index: 1000; /* Ensures navbar stays on top */
+    }
+
+    .navbar-left a, .navbar-right a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 15px;
+        font-size: 1rem;
+    }
+
+        .navbar-left a:hover, .navbar-right a:hover {
+            background-color: #555;
+            border-radius: 5px;
+        }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: calc(100vh - 100px); /* Adjusting height to reduce empty space */
+        padding: 1rem;
+        margin-top: 10px; /* Adjusted margin to reduce space between navbar and content */
+    }
+
+    .card {
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        background: #ffffff;
+        max-width: 400px;
+        width: 100%;
+        padding: 1.5rem;
+        margin-top: 10px; /* Reduced margin for less empty space */
+    }
+
+    .card-header {
+        background-color: #0072ff;
+        color: #ffffff;
+        padding: 1.5rem;
+        border-radius: 10px 10px 0 0;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    .card-body {
+        padding: 1.5rem; /* Adjusted padding for balance */
+    }
+
+    .form-control {
+        height: 45px;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+        padding: 0.75rem;
+        margin-bottom: 1rem;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-control:focus {
+            border-color: #0072ff;
+            box-shadow: 0 0 5px rgba(0, 114, 255, 0.2);
+            outline: none;
+        }
+
+    .btn-success {
+        background-color: #0072ff;
+        border: none;
+        color: white;
+        padding: 12px;
+        font-size: 16px;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+        .btn-success:hover {
+            background-color: #005bb5;
+        }
+
+    .text-danger {
+        color: #e74c3c;
+    }
+
+    .text-center a {
+        color: #0072ff;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .text-center a:hover {
+            text-decoration: underline;
+        }
+
+</style>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h3>Create Your Account</h3>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Register", "Register", FormMethod.Post, new { @class = "form-horizontal" }))
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-group">
+                    <label asp-for="FirstName" class="control-label">First Name</label>
+                    @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", placeholder = "Enter your first name" })
+                    @Html.ValidationMessageFor(m => m.FirstName, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="LastName" class="control-label">Last Name</label>
+                    @Html.TextBoxFor(m => m.LastName, new { @class = "form-control", placeholder = "Enter your last name" })
+                    @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Address" class="control-label">Address</label>
+                    @Html.TextBoxFor(m => m.Address, new { @class = "form-control", placeholder = "Enter your Address" })
+                    @Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ContactNo" class="control-label">Contact Number</label>
+                    @Html.TextBoxFor(m => m.ContactNo, new { @class = "form-control", placeholder = "Enter Contact number" })
+                    @Html.ValidationMessageFor(m => m.ContactNo, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="UserName" class="control-label">Username</label>
+                    @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", placeholder = "Enter Username" })
+                    @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label">Email</label>
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Enter Email" })
+                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label">Password</label>
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Enter Password" })
+                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group text-center">
+                    <button type="submit" class="btn btn-success btn-lg btn-block">Sign Up</button>
+                </div>
+            }
+
+            <div class="text-center">
+                <p>Already have an account? <a href="@Url.Action("Login","Login")">Login here</a></p>
+            </div>
+        </div>
+    </div>
+</div>

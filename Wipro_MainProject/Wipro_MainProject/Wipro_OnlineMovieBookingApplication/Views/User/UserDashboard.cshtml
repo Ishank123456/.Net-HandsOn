@@ -1,0 +1,138 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.UserViewModel
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: url('https://i.ibb.co/cxz57cf/USER-DASHBOARD.jpg') no-repeat center center fixed, linear-gradient(to right, #f8f9fa, #e9ecef);
+        background-size: cover; /* Ensures the image covers the whole background */
+        margin: 0;
+        padding: 0;
+        color: #495057;
+    }
+
+
+    .container {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 20px;
+    }
+
+    .card {
+        background: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin-bottom: 20px;
+        animation: fadeIn 1s ease-in-out;
+    }
+
+    .card-header {
+        background: #007bff;
+        color: #ffffff;
+        padding: 15px;
+        border-radius: 10px 10px 0 0;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .btn-group {
+        display: flex;
+        flex-direction: column;
+        gap: 10px; /* Space between buttons */
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 12px 24px;
+        border-radius: 5px;
+        color: #ffffff;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.2s;
+        border: none;
+        cursor: pointer;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+
+    .btn-info {
+        background-color: #17a2b8;
+    }
+
+        .btn-info:hover {
+            background-color: #117a8b;
+            transform: scale(1.05);
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+            transform: scale(1.05);
+        }
+
+    .btn-success {
+        background-color: #28a745;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+            transform: scale(1.05);
+        }
+
+    hr {
+        border: none;
+        height: 1px;
+        background: #dee2e6;
+        margin: 20px 0;
+    }
+</style>
+
+<div class="container">
+    <h2 style="text-align:center; font-size: 2rem; font-weight: bold; color: yellow">Hii @Model.FirstName @Model.LastName</h2>
+    <br />
+    <br />
+    <div class="card">
+        <div class="card-header">User Details</div>
+        <div class="card-body">
+            <div class="btn-group">
+                @if (Model != null && Model.UserId != 0)
+                {
+                    <a href="@Url.Action("Details", "User", new { id = Model.UserId })" class="btn btn-primary">
+                        User Profile
+                    </a>
+                }
+                else
+                {
+                    <p class="text-danger">User details are not available.</p>
+                }
+            </div>
+            <hr />
+            <div class="btn-group">
+                <a href="@Url.Action("MovieDetails", "User", new { userId = Model.UserId })" class="btn btn-info">
+                    Movies List
+                </a>
+                <a href="@Url.Action("BookingDetails", "User", new { userId = Model.UserId })" class="btn btn-success">
+                    Booking Details
+                </a>
+                <a href="@Url.Action("GetAllPaymentDetailsForUser", "PaymentDetails", new { userId = Model.UserId })" class="btn btn-success">
+                    Payment Details
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
